@@ -38,6 +38,12 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
+    "via": ["mapbaltimore"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
     "via": ["overedge"],
     "from": "overedge"
   },
