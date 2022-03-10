@@ -2,6 +2,12 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["birdseyeview", "overedge"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["overedge"],
     "from": "overedge"
   },
@@ -14,8 +20,20 @@
   {
     "package": "cssparser",
     "url": "https://github.com/coolbutuseless/cssparser",
+    "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "cssparser",
+    "url": "https://github.com/coolbutuseless/cssparser",
     "via": ["overedge", "ggsvg", "svgparser"],
     "from": "overedge"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["birdseyeview", "overedge"],
+    "from": "birdseyeview"
   },
   {
     "package": "esri2sf",
@@ -26,8 +44,20 @@
   {
     "package": "gggrid",
     "url": "https://github.com/pmur002/gggrid",
+    "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "gggrid",
+    "url": "https://github.com/pmur002/gggrid",
     "via": ["overedge", "ggsvg", "svgparser"],
     "from": "overedge"
+  },
+  {
+    "package": "ggsvg",
+    "url": "https://github.com/coolbutuseless/ggsvg",
+    "via": ["birdseyeview", "overedge"],
+    "from": "birdseyeview"
   },
   {
     "package": "ggsvg",
@@ -38,8 +68,26 @@
   {
     "package": "minisvg",
     "url": "https://github.com/coolbutuseless/minisvg",
+    "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "minisvg",
+    "url": "https://github.com/coolbutuseless/minisvg",
     "via": ["overedge", "ggsvg", "svgparser"],
     "from": "overedge"
+  },
+  {
+    "package": "overedge",
+    "url": "https://github.com/elipousson/overedge",
+    "via": ["birdseyeview"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "snapbox",
+    "url": "https://github.com/anthonynorth/snapbox",
+    "via": ["birdseyeview"],
+    "from": "birdseyeview"
   },
   {
     "package": "snapbox",
@@ -50,8 +98,20 @@
   {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["birdseyeview", "snapbox"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
     "via": ["overedge", "birdseyeview", "snapbox"],
     "from": "overedge"
+  },
+  {
+    "package": "svgparser",
+    "url": "https://github.com/coolbutuseless/svgparser",
+    "via": ["birdseyeview", "overedge", "ggsvg"],
+    "from": "birdseyeview"
   },
   {
     "package": "svgparser",
