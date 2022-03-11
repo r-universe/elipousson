@@ -1,0 +1,62 @@
+[
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "birdseyeview",
+    "url": "https://github.com/elipousson/birdseyeview",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "cssparser",
+    "url": "https://github.com/coolbutuseless/cssparser",
+    "via": ["overedge", "ggsvg", "svgparser"],
+    "from": "overedge"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "gggrid",
+    "url": "https://github.com/pmur002/gggrid",
+    "via": ["overedge", "ggsvg", "svgparser"],
+    "from": "overedge"
+  },
+  {
+    "package": "ggsvg",
+    "url": "https://github.com/coolbutuseless/ggsvg",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "minisvg",
+    "url": "https://github.com/coolbutuseless/minisvg",
+    "via": ["overedge", "ggsvg", "svgparser"],
+    "from": "overedge"
+  },
+  {
+    "package": "snapbox",
+    "url": "https://github.com/anthonynorth/snapbox",
+    "via": ["overedge", "birdseyeview"],
+    "from": "overedge"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["overedge", "birdseyeview", "snapbox"],
+    "from": "overedge"
+  },
+  {
+    "package": "svgparser",
+    "url": "https://github.com/coolbutuseless/svgparser",
+    "via": ["overedge", "ggsvg"],
+    "from": "overedge"
+  }
+]

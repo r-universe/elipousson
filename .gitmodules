@@ -38,3 +38,48 @@
 	url = https://github.com/elipousson/crashapi
 	shallow = true
 	registered = true
+[submodule "FlickrAPI"]
+	path = FlickrAPI
+	url = https://github.com/koki25ando/FlickrAPI
+	shallow = true
+	registered = false
+[submodule "cssparser"]
+	path = cssparser
+	url = https://github.com/coolbutuseless/cssparser
+	shallow = true
+	registered = false
+[submodule "esri2sf"]
+	path = esri2sf
+	url = https://github.com/yonghah/esri2sf
+	shallow = true
+	registered = false
+[submodule "gggrid"]
+	path = gggrid
+	url = https://github.com/pmur002/gggrid
+	shallow = true
+	registered = false
+[submodule "ggsvg"]
+	path = ggsvg
+	url = https://github.com/coolbutuseless/ggsvg
+	shallow = true
+	registered = false
+[submodule "minisvg"]
+	path = minisvg
+	url = https://github.com/coolbutuseless/minisvg
+	shallow = true
+	registered = false
+[submodule "snapbox"]
+	path = snapbox
+	url = https://github.com/anthonynorth/snapbox
+	shallow = true
+	registered = false
+[submodule "stylebox"]
+	path = stylebox
+	url = https://github.com/anthonynorth/stylebox
+	shallow = true
+	registered = false
+[submodule "svgparser"]
+	path = svgparser
+	url = https://github.com/coolbutuseless/svgparser
+	shallow = true
+	registered = false
