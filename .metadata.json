@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "package": "overedge"
+  },
+  {
+    "package": "birdseyeview"
+  },
+  {
+    "package": "bingmapr"
+  },
+  {
+    "package": "mapbaltimore"
+  },
+  {
+    "package": "bcpss"
+  },
+  {
+    "package": "baltimoredata"
+  },
+  {
+    "package": "crashapi"
+  }
+]

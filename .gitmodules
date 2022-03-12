@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/elipousson/universe
 	shallow = true
 	branch = HEAD
+[submodule "overedge"]
+	path = overedge
+	url = https://github.com/elipousson/overedge
+	shallow = true
+	registered = true
+[submodule "birdseyeview"]
+	path = birdseyeview
+	url = https://github.com/elipousson/birdseyeview
+	shallow = true
+	registered = true
+[submodule "bingmapr"]
+	path = bingmapr
+	url = https://github.com/elipousson/bingmapr
+	shallow = true
+	registered = true
+[submodule "mapbaltimore"]
+	path = mapbaltimore
+	url = https://github.com/elipousson/mapbaltimore
+	shallow = true
+	registered = true
+[submodule "bcpss"]
+	path = bcpss
+	url = https://github.com/elipousson/bcpss
+	shallow = true
+	registered = true
+[submodule "baltimoredata"]
+	path = baltimoredata
+	url = https://github.com/elipousson/baltimoredata
+	shallow = true
+	registered = true
+[submodule "crashapi"]
+	path = crashapi
+	url = https://github.com/elipousson/crashapi
+	shallow = true
+	registered = true
