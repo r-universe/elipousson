@@ -8,6 +8,12 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["crashapi", "overedge"],
+    "from": "crashapi"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["mapbaltimore", "overedge"],
     "from": "mapbaltimore"
   },
@@ -20,6 +26,12 @@
   {
     "package": "birdseyeview",
     "url": "https://github.com/elipousson/birdseyeview",
+    "via": ["crashapi", "overedge"],
+    "from": "crashapi"
+  },
+  {
+    "package": "birdseyeview",
+    "url": "https://github.com/elipousson/birdseyeview",
     "via": ["mapbaltimore", "overedge"],
     "from": "mapbaltimore"
   },
@@ -38,6 +50,12 @@
   {
     "package": "cssparser",
     "url": "https://github.com/coolbutuseless/cssparser",
+    "via": ["crashapi", "overedge", "ggsvg", "svgparser"],
+    "from": "crashapi"
+  },
+  {
+    "package": "cssparser",
+    "url": "https://github.com/coolbutuseless/cssparser",
     "via": ["mapbaltimore", "overedge", "ggsvg", "svgparser"],
     "from": "mapbaltimore"
   },
@@ -56,6 +74,12 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
+    "via": ["crashapi", "overedge"],
+    "from": "crashapi"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
     "via": ["mapbaltimore"],
     "from": "mapbaltimore"
   },
@@ -76,6 +100,12 @@
     "url": "https://github.com/pmur002/gggrid",
     "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
     "from": "birdseyeview"
+  },
+  {
+    "package": "gggrid",
+    "url": "https://github.com/pmur002/gggrid",
+    "via": ["crashapi", "overedge", "ggsvg", "svgparser"],
+    "from": "crashapi"
   },
   {
     "package": "gggrid",
@@ -98,6 +128,12 @@
   {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
+    "via": ["crashapi", "overedge"],
+    "from": "crashapi"
+  },
+  {
+    "package": "ggsvg",
+    "url": "https://github.com/coolbutuseless/ggsvg",
     "via": ["mapbaltimore", "overedge"],
     "from": "mapbaltimore"
   },
@@ -112,6 +148,12 @@
     "url": "https://github.com/coolbutuseless/minisvg",
     "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
     "from": "birdseyeview"
+  },
+  {
+    "package": "minisvg",
+    "url": "https://github.com/coolbutuseless/minisvg",
+    "via": ["crashapi", "overedge", "ggsvg", "svgparser"],
+    "from": "crashapi"
   },
   {
     "package": "minisvg",
@@ -134,6 +176,12 @@
   {
     "package": "overedge",
     "url": "https://github.com/elipousson/overedge",
+    "via": ["crashapi"],
+    "from": "crashapi"
+  },
+  {
+    "package": "overedge",
+    "url": "https://github.com/elipousson/overedge",
     "via": ["mapbaltimore"],
     "from": "mapbaltimore"
   },
@@ -142,6 +190,12 @@
     "url": "https://github.com/anthonynorth/snapbox",
     "via": ["birdseyeview"],
     "from": "birdseyeview"
+  },
+  {
+    "package": "snapbox",
+    "url": "https://github.com/anthonynorth/snapbox",
+    "via": ["crashapi", "overedge", "birdseyeview"],
+    "from": "crashapi"
   },
   {
     "package": "snapbox",
@@ -164,6 +218,12 @@
   {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["crashapi", "overedge", "birdseyeview", "snapbox"],
+    "from": "crashapi"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
     "via": ["mapbaltimore", "overedge", "birdseyeview", "snapbox"],
     "from": "mapbaltimore"
   },
@@ -178,6 +238,12 @@
     "url": "https://github.com/coolbutuseless/svgparser",
     "via": ["birdseyeview", "overedge", "ggsvg"],
     "from": "birdseyeview"
+  },
+  {
+    "package": "svgparser",
+    "url": "https://github.com/coolbutuseless/svgparser",
+    "via": ["crashapi", "overedge", "ggsvg"],
+    "from": "crashapi"
   },
   {
     "package": "svgparser",
