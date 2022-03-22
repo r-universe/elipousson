@@ -19,5 +19,8 @@
   },
   {
     "package": "crashapi"
+  },
+  {
+    "package": "streetmixr"
   }
 ]

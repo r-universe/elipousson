@@ -38,6 +38,11 @@
 	url = https://github.com/elipousson/crashapi
 	shallow = true
 	registered = true
+[submodule "streetmixr"]
+	path = streetmixr
+	url = https://github.com/elipousson/streetmixr
+	shallow = true
+	registered = true
 [submodule "FlickrAPI"]
 	path = FlickrAPI
 	url = https://github.com/koki25ando/FlickrAPI
