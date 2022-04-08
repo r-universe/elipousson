@@ -68,6 +68,11 @@
 	url = https://github.com/coolbutuseless/ggsvg
 	shallow = true
 	registered = false
+[submodule "mapboxapi"]
+	path = mapboxapi
+	url = https://github.com/walkerke/mapboxapi
+	shallow = true
+	registered = false
 [submodule "minisvg"]
 	path = minisvg
 	url = https://github.com/coolbutuseless/minisvg

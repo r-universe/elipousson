@@ -144,6 +144,12 @@
     "from": "overedge"
   },
   {
+    "package": "mapboxapi",
+    "url": "https://github.com/walkerke/mapboxapi",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
     "package": "minisvg",
     "url": "https://github.com/coolbutuseless/minisvg",
     "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
