@@ -146,6 +146,12 @@
   {
     "package": "mapboxapi",
     "url": "https://github.com/walkerke/mapboxapi",
+    "via": ["mapbaltimore", "overedge"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "mapboxapi",
+    "url": "https://github.com/walkerke/mapboxapi",
     "via": ["overedge"],
     "from": "overedge"
   },
