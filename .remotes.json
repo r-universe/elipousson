@@ -146,6 +146,12 @@
   {
     "package": "mapboxapi",
     "url": "https://github.com/walkerke/mapboxapi",
+    "via": ["birdseyeview", "overedge"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "mapboxapi",
+    "url": "https://github.com/walkerke/mapboxapi",
     "via": ["mapbaltimore", "overedge"],
     "from": "mapbaltimore"
   },
