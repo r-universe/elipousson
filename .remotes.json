@@ -50,12 +50,6 @@
   {
     "package": "cssparser",
     "url": "https://github.com/coolbutuseless/cssparser",
-    "via": ["crashapi", "overedge", "ggsvg", "svgparser"],
-    "from": "crashapi"
-  },
-  {
-    "package": "cssparser",
-    "url": "https://github.com/coolbutuseless/cssparser",
     "via": ["mapbaltimore", "overedge", "ggsvg", "svgparser"],
     "from": "mapbaltimore"
   },
@@ -98,12 +92,6 @@
   {
     "package": "gggrid",
     "url": "https://github.com/pmur002/gggrid",
-    "via": ["crashapi", "overedge", "ggsvg", "svgparser"],
-    "from": "crashapi"
-  },
-  {
-    "package": "gggrid",
-    "url": "https://github.com/pmur002/gggrid",
     "via": ["mapbaltimore", "overedge", "ggsvg", "svgparser"],
     "from": "mapbaltimore"
   },
@@ -140,6 +128,12 @@
   {
     "package": "mapboxapi",
     "url": "https://github.com/walkerke/mapboxapi",
+    "via": ["crashapi", "overedge"],
+    "from": "crashapi"
+  },
+  {
+    "package": "mapboxapi",
+    "url": "https://github.com/walkerke/mapboxapi",
     "via": ["mapbaltimore", "overedge"],
     "from": "mapbaltimore"
   },
@@ -154,12 +148,6 @@
     "url": "https://github.com/coolbutuseless/minisvg",
     "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
     "from": "birdseyeview"
-  },
-  {
-    "package": "minisvg",
-    "url": "https://github.com/coolbutuseless/minisvg",
-    "via": ["crashapi", "overedge", "ggsvg", "svgparser"],
-    "from": "crashapi"
   },
   {
     "package": "minisvg",
@@ -238,12 +226,6 @@
     "url": "https://github.com/coolbutuseless/svgparser",
     "via": ["birdseyeview", "overedge", "ggsvg"],
     "from": "birdseyeview"
-  },
-  {
-    "package": "svgparser",
-    "url": "https://github.com/coolbutuseless/svgparser",
-    "via": ["crashapi", "overedge", "ggsvg"],
-    "from": "crashapi"
   },
   {
     "package": "svgparser",
