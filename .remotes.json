@@ -84,6 +84,12 @@
     "from": "overedge"
   },
   {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["overedge", "mapbaltimore"],
+    "from": "overedge"
+  },
+  {
     "package": "gggrid",
     "url": "https://github.com/pmur002/gggrid",
     "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
@@ -116,6 +122,12 @@
   {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "mapbaltimore",
+    "url": "https://github.com/elipousson/mapbaltimore",
     "via": ["overedge"],
     "from": "overedge"
   },
