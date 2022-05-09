@@ -48,12 +48,6 @@
     "from": "birdseyeview"
   },
   {
-    "package": "cssparser",
-    "url": "https://github.com/coolbutuseless/cssparser",
-    "via": ["mapbaltimore", "overedge", "ggsvg", "svgparser"],
-    "from": "mapbaltimore"
-  },
-  {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
     "via": ["birdseyeview", "overedge"],
@@ -94,12 +88,6 @@
     "url": "https://github.com/pmur002/gggrid",
     "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
     "from": "birdseyeview"
-  },
-  {
-    "package": "gggrid",
-    "url": "https://github.com/pmur002/gggrid",
-    "via": ["mapbaltimore", "overedge", "ggsvg", "svgparser"],
-    "from": "mapbaltimore"
   },
   {
     "package": "ggsvg",
@@ -145,7 +133,7 @@
   },
   {
     "package": "mapboxapi",
-    "url": "https://github.com/walkerke/mapboxapi",
+    "url": "https://github.com/elipousson/mapboxapi",
     "via": ["mapbaltimore", "overedge"],
     "from": "mapbaltimore"
   },
@@ -160,12 +148,6 @@
     "url": "https://github.com/coolbutuseless/minisvg",
     "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
     "from": "birdseyeview"
-  },
-  {
-    "package": "minisvg",
-    "url": "https://github.com/coolbutuseless/minisvg",
-    "via": ["mapbaltimore", "overedge", "ggsvg", "svgparser"],
-    "from": "mapbaltimore"
   },
   {
     "package": "overedge",
@@ -238,11 +220,5 @@
     "url": "https://github.com/coolbutuseless/svgparser",
     "via": ["birdseyeview", "overedge", "ggsvg"],
     "from": "birdseyeview"
-  },
-  {
-    "package": "svgparser",
-    "url": "https://github.com/coolbutuseless/svgparser",
-    "via": ["mapbaltimore", "overedge", "ggsvg"],
-    "from": "mapbaltimore"
   }
 ]
