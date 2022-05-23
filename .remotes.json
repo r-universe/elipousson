@@ -42,15 +42,15 @@
     "from": "overedge"
   },
   {
-    "package": "cssparser",
-    "url": "https://github.com/coolbutuseless/cssparser",
-    "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["birdseyeview", "overedge"],
     "from": "birdseyeview"
   },
   {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
-    "via": ["birdseyeview", "overedge"],
+    "via": ["birdseyeview", "overedge", "mapbaltimore"],
     "from": "birdseyeview"
   },
   {
@@ -84,12 +84,6 @@
     "from": "overedge"
   },
   {
-    "package": "gggrid",
-    "url": "https://github.com/pmur002/gggrid",
-    "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
-    "from": "birdseyeview"
-  },
-  {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
     "via": ["birdseyeview", "overedge"],
@@ -116,12 +110,18 @@
   {
     "package": "mapbaltimore",
     "url": "https://github.com/elipousson/mapbaltimore",
+    "via": ["birdseyeview", "overedge"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "mapbaltimore",
+    "url": "https://github.com/elipousson/mapbaltimore",
     "via": ["overedge"],
     "from": "overedge"
   },
   {
     "package": "mapboxapi",
-    "url": "https://github.com/walkerke/mapboxapi",
+    "url": "https://github.com/elipousson/mapboxapi",
     "via": ["birdseyeview", "overedge"],
     "from": "birdseyeview"
   },
@@ -142,12 +142,6 @@
     "url": "https://github.com/elipousson/mapboxapi",
     "via": ["overedge"],
     "from": "overedge"
-  },
-  {
-    "package": "minisvg",
-    "url": "https://github.com/coolbutuseless/minisvg",
-    "via": ["birdseyeview", "overedge", "ggsvg", "svgparser"],
-    "from": "birdseyeview"
   },
   {
     "package": "overedge",
@@ -214,11 +208,5 @@
     "url": "https://github.com/anthonynorth/stylebox",
     "via": ["overedge", "birdseyeview", "snapbox"],
     "from": "overedge"
-  },
-  {
-    "package": "svgparser",
-    "url": "https://github.com/coolbutuseless/svgparser",
-    "via": ["birdseyeview", "overedge", "ggsvg"],
-    "from": "birdseyeview"
   }
 ]

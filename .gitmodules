@@ -48,19 +48,9 @@
 	url = https://github.com/koki25ando/FlickrAPI
 	shallow = true
 	registered = false
-[submodule "cssparser"]
-	path = cssparser
-	url = https://github.com/coolbutuseless/cssparser
-	shallow = true
-	registered = false
 [submodule "esri2sf"]
 	path = esri2sf
 	url = https://github.com/yonghah/esri2sf
-	shallow = true
-	registered = false
-[submodule "gggrid"]
-	path = gggrid
-	url = https://github.com/pmur002/gggrid
 	shallow = true
 	registered = false
 [submodule "ggsvg"]
@@ -70,12 +60,7 @@
 	registered = false
 [submodule "mapboxapi"]
 	path = mapboxapi
-	url = https://github.com/walkerke/mapboxapi
-	shallow = true
-	registered = false
-[submodule "minisvg"]
-	path = minisvg
-	url = https://github.com/coolbutuseless/minisvg
+	url = https://github.com/elipousson/mapboxapi
 	shallow = true
 	registered = false
 [submodule "snapbox"]
@@ -86,10 +71,5 @@
 [submodule "stylebox"]
 	path = stylebox
 	url = https://github.com/anthonynorth/stylebox
-	shallow = true
-	registered = false
-[submodule "svgparser"]
-	path = svgparser
-	url = https://github.com/coolbutuseless/svgparser
 	shallow = true
 	registered = false
