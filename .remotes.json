@@ -74,13 +74,13 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
-    "via": ["overedge"],
+    "via": ["overedge", "mapbaltimore"],
     "from": "overedge"
   },
   {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
-    "via": ["overedge", "mapbaltimore"],
+    "via": ["overedge"],
     "from": "overedge"
   },
   {
