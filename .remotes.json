@@ -56,6 +56,12 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
+    "via": ["crashapi", "overedge", "mapbaltimore"],
+    "from": "crashapi"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
     "via": ["crashapi", "overedge"],
     "from": "crashapi"
   },
@@ -116,6 +122,12 @@
   {
     "package": "mapbaltimore",
     "url": "https://github.com/elipousson/mapbaltimore",
+    "via": ["crashapi", "overedge"],
+    "from": "crashapi"
+  },
+  {
+    "package": "mapbaltimore",
+    "url": "https://github.com/elipousson/mapbaltimore",
     "via": ["overedge"],
     "from": "overedge"
   },
@@ -127,7 +139,7 @@
   },
   {
     "package": "mapboxapi",
-    "url": "https://github.com/walkerke/mapboxapi",
+    "url": "https://github.com/elipousson/mapboxapi",
     "via": ["crashapi", "overedge"],
     "from": "crashapi"
   },
