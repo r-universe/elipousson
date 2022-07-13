@@ -63,6 +63,11 @@
 	url = https://github.com/elipousson/mapboxapi
 	shallow = true
 	registered = false
+[submodule "sfext"]
+	path = sfext
+	url = https://github.com/elipousson/sfext
+	shallow = true
+	registered = false
 [submodule "snapbox"]
 	path = snapbox
 	url = https://github.com/anthonynorth/snapbox
