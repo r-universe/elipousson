@@ -53,6 +53,11 @@
 	url = https://github.com/yonghah/esri2sf
 	shallow = true
 	registered = false
+[submodule "getdata"]
+	path = getdata
+	url = https://github.com/elipousson/getdata
+	shallow = true
+	registered = false
 [submodule "ggsvg"]
 	path = ggsvg
 	url = https://github.com/coolbutuseless/ggsvg
@@ -61,6 +66,11 @@
 [submodule "mapboxapi"]
 	path = mapboxapi
 	url = https://github.com/elipousson/mapboxapi
+	shallow = true
+	registered = false
+[submodule "maplayer"]
+	path = maplayer
+	url = https://github.com/elipousson/maplayer
 	shallow = true
 	registered = false
 [submodule "sfext"]

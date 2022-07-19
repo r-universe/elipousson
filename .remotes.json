@@ -8,7 +8,19 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["mapbaltimore", "overedge"],
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["mapbaltimore", "maplayer", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["mapbaltimore", "maplayer", "overedge"],
     "from": "mapbaltimore"
   },
   {
@@ -20,7 +32,7 @@
   {
     "package": "birdseyeview",
     "url": "https://github.com/elipousson/birdseyeview",
-    "via": ["mapbaltimore", "overedge"],
+    "via": ["mapbaltimore", "maplayer", "overedge"],
     "from": "mapbaltimore"
   },
   {
@@ -49,14 +61,50 @@
   },
   {
     "package": "esri2sf",
-    "url": "https://github.com/yonghah/esri2sf",
-    "via": ["mapbaltimore", "overedge"],
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["mapbaltimore"],
     "from": "mapbaltimore"
   },
   {
     "package": "esri2sf",
     "url": "https://github.com/yonghah/esri2sf",
-    "via": ["mapbaltimore"],
+    "via": ["mapbaltimore", "getdata", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["mapbaltimore", "maplayer", "getdata", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["mapbaltimore", "maplayer", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["mapbaltimore", "maplayer", "overedge"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["mapbaltimore", "maplayer", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/yonghah/esri2sf",
+    "via": ["mapbaltimore", "sfext"],
     "from": "mapbaltimore"
   },
   {
@@ -72,6 +120,18 @@
     "from": "overedge"
   },
   {
+    "package": "getdata",
+    "url": "https://github.com/elipousson/getdata",
+    "via": ["mapbaltimore"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "getdata",
+    "url": "https://github.com/elipousson/getdata",
+    "via": ["mapbaltimore", "maplayer"],
+    "from": "mapbaltimore"
+  },
+  {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
     "via": ["birdseyeview", "overedge"],
@@ -80,7 +140,13 @@
   {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
-    "via": ["mapbaltimore", "overedge"],
+    "via": ["mapbaltimore", "maplayer"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "ggsvg",
+    "url": "https://github.com/coolbutuseless/ggsvg",
+    "via": ["mapbaltimore", "maplayer", "overedge"],
     "from": "mapbaltimore"
   },
   {
@@ -110,7 +176,13 @@
   {
     "package": "mapboxapi",
     "url": "https://github.com/elipousson/mapboxapi",
-    "via": ["mapbaltimore", "overedge"],
+    "via": ["mapbaltimore", "maplayer", "overedge"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "mapboxapi",
+    "url": "https://github.com/walkerke/mapboxapi",
+    "via": ["mapbaltimore", "maplayer"],
     "from": "mapbaltimore"
   },
   {
@@ -118,6 +190,12 @@
     "url": "https://github.com/elipousson/mapboxapi",
     "via": ["overedge"],
     "from": "overedge"
+  },
+  {
+    "package": "maplayer",
+    "url": "https://github.com/elipousson/maplayer",
+    "via": ["mapbaltimore"],
+    "from": "mapbaltimore"
   },
   {
     "package": "overedge",
@@ -128,7 +206,7 @@
   {
     "package": "overedge",
     "url": "https://github.com/elipousson/overedge",
-    "via": ["mapbaltimore"],
+    "via": ["mapbaltimore", "maplayer"],
     "from": "mapbaltimore"
   },
   {
@@ -138,6 +216,30 @@
     "from": "crashapi"
   },
   {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["mapbaltimore", "maplayer", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["mapbaltimore", "maplayer"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["mapbaltimore"],
+    "from": "mapbaltimore"
+  },
+  {
     "package": "snapbox",
     "url": "https://github.com/anthonynorth/snapbox",
     "via": ["birdseyeview"],
@@ -146,7 +248,7 @@
   {
     "package": "snapbox",
     "url": "https://github.com/anthonynorth/snapbox",
-    "via": ["mapbaltimore", "overedge", "birdseyeview"],
+    "via": ["mapbaltimore", "maplayer", "overedge", "birdseyeview"],
     "from": "mapbaltimore"
   },
   {
@@ -164,7 +266,7 @@
   {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
-    "via": ["mapbaltimore", "overedge", "birdseyeview", "snapbox"],
+    "via": ["mapbaltimore", "maplayer", "overedge", "birdseyeview", "snapbox"],
     "from": "mapbaltimore"
   },
   {
