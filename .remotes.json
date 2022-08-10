@@ -20,19 +20,19 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
     "via": ["overedge", "mapbaltimore", "getdata"],
     "from": "overedge"
   },
   {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
     "via": ["overedge", "mapbaltimore", "maplayer", "getdata"],
-    "from": "overedge"
-  },
-  {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["overedge"],
     "from": "overedge"
   },
   {
