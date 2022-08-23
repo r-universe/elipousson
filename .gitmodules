@@ -58,6 +58,11 @@
 	url = https://github.com/elipousson/getdata
 	shallow = true
 	registered = false
+[submodule "ggpath"]
+	path = ggpath
+	url = https://github.com/mrcaseb/ggpath
+	shallow = true
+	registered = false
 [submodule "ggsvg"]
 	path = ggsvg
 	url = https://github.com/coolbutuseless/ggsvg

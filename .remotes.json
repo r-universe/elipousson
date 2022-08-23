@@ -8,20 +8,20 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
     "via": ["mapbaltimore", "getdata"],
     "from": "mapbaltimore"
   },
   {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
     "via": ["mapbaltimore", "maplayer", "getdata"],
     "from": "mapbaltimore"
-  },
-  {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["overedge"],
-    "from": "overedge"
   },
   {
     "package": "bingmapr",
@@ -174,6 +174,12 @@
     "from": "overedge"
   },
   {
+    "package": "ggpath",
+    "url": "https://github.com/mrcaseb/ggpath",
+    "via": ["mapbaltimore", "maplayer"],
+    "from": "mapbaltimore"
+  },
+  {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
     "via": ["birdseyeview", "overedge"],
@@ -214,12 +220,6 @@
     "url": "https://github.com/elipousson/mapboxapi",
     "via": ["birdseyeview", "overedge"],
     "from": "birdseyeview"
-  },
-  {
-    "package": "mapboxapi",
-    "url": "https://github.com/walkerke/mapboxapi",
-    "via": ["mapbaltimore", "maplayer"],
-    "from": "mapbaltimore"
   },
   {
     "package": "mapboxapi",
