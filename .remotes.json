@@ -2,14 +2,20 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["birdseyeview", "overedge"],
+    "via": ["overedge"],
+    "from": "overedge"
+  },
+  {
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
+    "via": ["birdseyeview", "getdata"],
     "from": "birdseyeview"
   },
   {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["overedge"],
-    "from": "overedge"
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
+    "via": ["birdseyeview", "maplayer", "getdata"],
+    "from": "birdseyeview"
   },
   {
     "package": "bingmapr",
@@ -43,14 +49,38 @@
   },
   {
     "package": "esri2sf",
-    "url": "https://github.com/yonghah/esri2sf",
-    "via": ["birdseyeview", "overedge"],
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["birdseyeview", "getdata", "sfext"],
     "from": "birdseyeview"
   },
   {
     "package": "esri2sf",
-    "url": "https://github.com/yonghah/esri2sf",
-    "via": ["birdseyeview", "overedge", "mapbaltimore"],
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["birdseyeview", "getdata"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["birdseyeview", "maplayer", "getdata", "sfext"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["birdseyeview", "maplayer", "getdata"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["birdseyeview", "maplayer", "sfext"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["birdseyeview", "sfext"],
     "from": "birdseyeview"
   },
   {
@@ -152,6 +182,18 @@
   {
     "package": "getdata",
     "url": "https://github.com/elipousson/getdata",
+    "via": ["birdseyeview"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "getdata",
+    "url": "https://github.com/elipousson/getdata",
+    "via": ["birdseyeview", "maplayer"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "getdata",
+    "url": "https://github.com/elipousson/getdata",
     "via": ["mapbaltimore"],
     "from": "mapbaltimore"
   },
@@ -176,13 +218,19 @@
   {
     "package": "ggpath",
     "url": "https://github.com/mrcaseb/ggpath",
+    "via": ["birdseyeview", "maplayer"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "ggpath",
+    "url": "https://github.com/mrcaseb/ggpath",
     "via": ["mapbaltimore", "maplayer"],
     "from": "mapbaltimore"
   },
   {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
-    "via": ["birdseyeview", "overedge"],
+    "via": ["birdseyeview", "maplayer"],
     "from": "birdseyeview"
   },
   {
@@ -206,20 +254,8 @@
   {
     "package": "mapbaltimore",
     "url": "https://github.com/elipousson/mapbaltimore",
-    "via": ["birdseyeview", "overedge"],
-    "from": "birdseyeview"
-  },
-  {
-    "package": "mapbaltimore",
-    "url": "https://github.com/elipousson/mapbaltimore",
     "via": ["overedge"],
     "from": "overedge"
-  },
-  {
-    "package": "mapboxapi",
-    "url": "https://github.com/elipousson/mapboxapi",
-    "via": ["birdseyeview", "overedge"],
-    "from": "birdseyeview"
   },
   {
     "package": "mapboxapi",
@@ -236,6 +272,12 @@
   {
     "package": "maplayer",
     "url": "https://github.com/elipousson/maplayer",
+    "via": ["birdseyeview"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "maplayer",
+    "url": "https://github.com/elipousson/maplayer",
     "via": ["mapbaltimore"],
     "from": "mapbaltimore"
   },
@@ -246,8 +288,26 @@
     "from": "overedge"
   },
   {
-    "package": "overedge",
-    "url": "https://github.com/elipousson/overedge",
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["birdseyeview", "getdata"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["birdseyeview", "maplayer", "getdata"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["birdseyeview", "maplayer"],
+    "from": "birdseyeview"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
     "via": ["birdseyeview"],
     "from": "birdseyeview"
   },
@@ -308,20 +368,8 @@
   {
     "package": "snapbox",
     "url": "https://github.com/anthonynorth/snapbox",
-    "via": ["birdseyeview"],
-    "from": "birdseyeview"
-  },
-  {
-    "package": "snapbox",
-    "url": "https://github.com/anthonynorth/snapbox",
     "via": ["overedge", "birdseyeview"],
     "from": "overedge"
-  },
-  {
-    "package": "stylebox",
-    "url": "https://github.com/anthonynorth/stylebox",
-    "via": ["birdseyeview", "snapbox"],
-    "from": "birdseyeview"
   },
   {
     "package": "stylebox",

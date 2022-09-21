@@ -50,7 +50,7 @@
 	registered = false
 [submodule "esri2sf"]
 	path = esri2sf
-	url = https://github.com/yonghah/esri2sf
+	url = https://github.com/elipousson/esri2sf
 	shallow = true
 	registered = false
 [submodule "getdata"]
@@ -70,7 +70,7 @@
 	registered = false
 [submodule "mapboxapi"]
 	path = mapboxapi
-	url = https://github.com/elipousson/mapboxapi
+	url = https://github.com/walkerke/mapboxapi
 	shallow = true
 	registered = false
 [submodule "maplayer"]
