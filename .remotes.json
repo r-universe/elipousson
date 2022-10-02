@@ -85,12 +85,6 @@
   },
   {
     "package": "esri2sf",
-    "url": "https://github.com/yonghah/esri2sf",
-    "via": ["crashapi", "sfext"],
-    "from": "crashapi"
-  },
-  {
-    "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
     "via": ["mapbaltimore"],
     "from": "mapbaltimore"
@@ -310,12 +304,6 @@
     "url": "https://github.com/elipousson/sfext",
     "via": ["birdseyeview"],
     "from": "birdseyeview"
-  },
-  {
-    "package": "sfext",
-    "url": "https://github.com/elipousson/sfext",
-    "via": ["crashapi"],
-    "from": "crashapi"
   },
   {
     "package": "sfext",
