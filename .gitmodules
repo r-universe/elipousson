@@ -78,6 +78,11 @@
 	url = https://github.com/elipousson/maplayer
 	shallow = true
 	registered = false
+[submodule "mapmaryland"]
+	path = mapmaryland
+	url = https://github.com/elipousson/mapmaryland
+	shallow = true
+	registered = false
 [submodule "sfext"]
 	path = sfext
 	url = https://github.com/elipousson/sfext
