@@ -48,6 +48,11 @@
 	url = https://github.com/koki25ando/FlickrAPI
 	shallow = true
 	registered = false
+[submodule "baltimorecensus"]
+	path = baltimorecensus
+	url = https://github.com/elipousson/baltimorecensus
+	shallow = true
+	registered = false
 [submodule "esri2sf"]
 	path = esri2sf
 	url = https://github.com/elipousson/esri2sf

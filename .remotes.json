@@ -6,6 +6,12 @@
     "from": "overedge"
   },
   {
+    "package": "baltimorecensus",
+    "url": "https://github.com/elipousson/baltimorecensus",
+    "via": ["mapbaltimore"],
+    "from": "mapbaltimore"
+  },
+  {
     "package": "bingmapr",
     "url": "https://github.com/elipousson/bingmapr",
     "via": ["birdseyeview", "getdata"],
@@ -128,12 +134,6 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
-    "via": ["mapbaltimore", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
     "via": ["mapbaltimore", "mapmaryland", "getdata", "sfext"],
     "from": "mapbaltimore"
   },
@@ -147,6 +147,12 @@
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
     "via": ["mapbaltimore", "mapmaryland", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["mapbaltimore", "sfext"],
     "from": "mapbaltimore"
   },
   {
@@ -362,12 +368,6 @@
   {
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
-    "via": ["mapbaltimore"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "sfext",
-    "url": "https://github.com/elipousson/sfext",
     "via": ["mapbaltimore", "mapmaryland", "getdata"],
     "from": "mapbaltimore"
   },
@@ -375,6 +375,12 @@
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
     "via": ["mapbaltimore", "mapmaryland"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["mapbaltimore"],
     "from": "mapbaltimore"
   },
   {
