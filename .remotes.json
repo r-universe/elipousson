@@ -68,6 +68,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["filenamr"],
+    "from": "filenamr"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["getdata", "sfext", "filenamr"],
     "from": "getdata"
   },
@@ -238,6 +244,12 @@
     "url": "https://github.com/yonghah/esri2sf",
     "via": ["overedge"],
     "from": "overedge"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["filenamr"],
+    "from": "filenamr"
   },
   {
     "package": "exiftoolr",
