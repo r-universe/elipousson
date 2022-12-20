@@ -123,6 +123,11 @@
 	url = https://github.com/anthonynorth/snapbox
 	shallow = true
 	registered = false
+[submodule "staticimports"]
+	path = staticimports
+	url = https://github.com/wch/staticimports
+	shallow = true
+	registered = false
 [submodule "stylebox"]
 	path = stylebox
 	url = https://github.com/anthonynorth/stylebox

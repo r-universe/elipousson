@@ -480,6 +480,12 @@
     "from": "overedge"
   },
   {
+    "package": "staticimports",
+    "url": "https://github.com/wch/staticimports",
+    "via": ["isstatic"],
+    "from": "isstatic"
+  },
+  {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
     "via": ["overedge", "birdseyeview", "snapbox"],
