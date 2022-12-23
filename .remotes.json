@@ -26,6 +26,12 @@
   {
     "package": "bingmapr",
     "url": "https://github.com/elipousson/bingmapr",
+    "via": ["getdata"],
+    "from": "getdata"
+  },
+  {
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
     "via": ["mapbaltimore", "getdata"],
     "from": "mapbaltimore"
   },
@@ -58,6 +64,24 @@
     "url": "https://github.com/elipousson/birdseyeview",
     "via": ["overedge"],
     "from": "overedge"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["getdata", "sfext", "filenamr"],
+    "from": "getdata"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["getdata", "sfext"],
+    "from": "getdata"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["getdata"],
+    "from": "getdata"
   },
   {
     "package": "esri2sf",
@@ -94,6 +118,18 @@
     "url": "https://github.com/elipousson/esri2sf",
     "via": ["birdseyeview", "sfext"],
     "from": "birdseyeview"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["getdata"],
+    "from": "getdata"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["getdata", "sfext"],
+    "from": "getdata"
   },
   {
     "package": "esri2sf",
@@ -202,6 +238,18 @@
     "url": "https://github.com/yonghah/esri2sf",
     "via": ["overedge"],
     "from": "overedge"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["getdata", "sfext", "filenamr"],
+    "from": "getdata"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
+    "via": ["getdata", "sfext"],
+    "from": "getdata"
   },
   {
     "package": "getdata",
@@ -346,6 +394,12 @@
     "url": "https://github.com/elipousson/sfext",
     "via": ["birdseyeview"],
     "from": "birdseyeview"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["getdata"],
+    "from": "getdata"
   },
   {
     "package": "sfext",

@@ -93,6 +93,11 @@
 	url = https://github.com/elipousson/esri2sf
 	shallow = true
 	registered = false
+[submodule "exiftoolr"]
+	path = exiftoolr
+	url = https://github.com/JoshOBrien/exiftoolr
+	shallow = true
+	registered = false
 [submodule "ggpath"]
 	path = ggpath
 	url = https://github.com/mrcaseb/ggpath
