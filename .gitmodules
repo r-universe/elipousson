@@ -3,6 +3,41 @@
 	url = https://github.com/elipousson/universe
 	shallow = true
 	branch = HEAD
+[submodule "sfext"]
+	path = sfext
+	url = https://github.com/elipousson/sfext
+	shallow = true
+	registered = true
+[submodule "getdata"]
+	path = getdata
+	url = https://github.com/elipousson/getdata
+	shallow = true
+	registered = true
+[submodule "maplayer"]
+	path = maplayer
+	url = https://github.com/elipousson/maplayer
+	shallow = true
+	registered = true
+[submodule "filenamr"]
+	path = filenamr
+	url = https://github.com/elipousson/filenamr
+	shallow = true
+	registered = true
+[submodule "cliExtras"]
+	path = cliExtras
+	url = https://github.com/elipousson/cliExtras
+	shallow = true
+	registered = true
+[submodule "papersize"]
+	path = papersize
+	url = https://github.com/elipousson/papersize
+	shallow = true
+	registered = true
+[submodule "isstatic"]
+	path = isstatic
+	url = https://github.com/elipousson/isstatic
+	shallow = true
+	registered = true
 [submodule "overedge"]
 	path = overedge
 	url = https://github.com/elipousson/overedge
@@ -58,11 +93,6 @@
 	url = https://github.com/elipousson/esri2sf
 	shallow = true
 	registered = false
-[submodule "getdata"]
-	path = getdata
-	url = https://github.com/elipousson/getdata
-	shallow = true
-	registered = false
 [submodule "ggpath"]
 	path = ggpath
 	url = https://github.com/mrcaseb/ggpath
@@ -78,19 +108,9 @@
 	url = https://github.com/walkerke/mapboxapi
 	shallow = true
 	registered = false
-[submodule "maplayer"]
-	path = maplayer
-	url = https://github.com/elipousson/maplayer
-	shallow = true
-	registered = false
 [submodule "mapmaryland"]
 	path = mapmaryland
 	url = https://github.com/elipousson/mapmaryland
-	shallow = true
-	registered = false
-[submodule "sfext"]
-	path = sfext
-	url = https://github.com/elipousson/sfext
 	shallow = true
 	registered = false
 [submodule "snapbox"]

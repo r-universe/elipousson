@@ -1,5 +1,26 @@
 [
   {
+    "package": "sfext"
+  },
+  {
+    "package": "getdata"
+  },
+  {
+    "package": "maplayer"
+  },
+  {
+    "package": "filenamr"
+  },
+  {
+    "package": "cliExtras"
+  },
+  {
+    "package": "papersize"
+  },
+  {
+    "package": "isstatic"
+  },
+  {
     "package": "overedge"
   },
   {
