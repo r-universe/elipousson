@@ -90,6 +90,18 @@
     "from": "getdata"
   },
   {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["sfext", "filenamr"],
+    "from": "sfext"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["sfext"],
+    "from": "sfext"
+  },
+  {
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
     "via": ["birdseyeview", "getdata", "sfext"],
@@ -246,6 +258,12 @@
     "from": "overedge"
   },
   {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["sfext"],
+    "from": "sfext"
+  },
+  {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["filenamr"],
@@ -258,10 +276,22 @@
     "from": "getdata"
   },
   {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["sfext", "filenamr"],
+    "from": "sfext"
+  },
+  {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
     "via": ["getdata", "sfext"],
     "from": "getdata"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
+    "via": ["sfext"],
+    "from": "sfext"
   },
   {
     "package": "getdata",
