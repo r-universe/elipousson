@@ -92,6 +92,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["papersize"],
+    "from": "papersize"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["sfext", "filenamr"],
     "from": "sfext"
   },
