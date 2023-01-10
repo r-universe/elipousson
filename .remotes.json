@@ -140,6 +140,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "papersize"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["papersize"],
     "from": "papersize"
   },
@@ -462,12 +468,6 @@
     "from": "mapbaltimore"
   },
   {
-    "package": "ggpath",
-    "url": "https://github.com/mrcaseb/ggpath",
-    "via": ["maplayer"],
-    "from": "maplayer"
-  },
-  {
     "package": "ggsvg",
     "url": "https://github.com/coolbutuseless/ggsvg",
     "via": ["birdseyeview", "maplayer"],
@@ -538,6 +538,12 @@
     "url": "https://github.com/elipousson/mapmaryland",
     "via": ["mapbaltimore"],
     "from": "mapbaltimore"
+  },
+  {
+    "package": "papersize",
+    "url": "https://github.com/elipousson/papersize",
+    "via": ["maplayer"],
+    "from": "maplayer"
   },
   {
     "package": "sfext",
