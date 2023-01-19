@@ -260,6 +260,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["papersize", "filenamr"],
+    "from": "papersize"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["sfext", "filenamr"],
     "from": "sfext"
   },
@@ -524,6 +530,12 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["papersize", "filenamr"],
+    "from": "papersize"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["sfext", "filenamr"],
     "from": "sfext"
   },
@@ -592,6 +604,12 @@
     "url": "https://github.com/elipousson/filenamr",
     "via": ["maplayer"],
     "from": "maplayer"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
+    "via": ["papersize"],
+    "from": "papersize"
   },
   {
     "package": "filenamr",
