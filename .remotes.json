@@ -44,12 +44,6 @@
   {
     "package": "bingmapr",
     "url": "https://github.com/elipousson/bingmapr",
-    "via": ["mapbaltimore", "mapmaryland", "getdata"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "bingmapr",
-    "url": "https://github.com/elipousson/bingmapr",
     "via": ["maplayer", "getdata"],
     "from": "maplayer"
   },
@@ -164,31 +158,7 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "mapmaryland", "getdata", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "mapmaryland", "getdata", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "mapmaryland", "getdata"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "mapmaryland", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "mapmaryland", "sfext"],
+    "via": ["mapbaltimore", "maplayer", "papersize", "filenamr"],
     "from": "mapbaltimore"
   },
   {
@@ -362,24 +332,6 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
-    "via": ["mapbaltimore", "mapmaryland", "getdata"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
-    "via": ["mapbaltimore", "mapmaryland", "getdata", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
-    "via": ["mapbaltimore", "mapmaryland", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
     "via": ["mapbaltimore", "sfext"],
     "from": "mapbaltimore"
   },
@@ -494,13 +446,7 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["mapbaltimore", "mapmaryland", "getdata", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["mapbaltimore", "mapmaryland", "sfext", "filenamr"],
+    "via": ["mapbaltimore", "maplayer", "papersize", "filenamr"],
     "from": "mapbaltimore"
   },
   {
@@ -572,13 +518,7 @@
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
-    "via": ["mapbaltimore", "mapmaryland", "getdata", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
-    "via": ["mapbaltimore", "mapmaryland", "sfext"],
+    "via": ["mapbaltimore", "maplayer", "papersize"],
     "from": "mapbaltimore"
   },
   {
@@ -639,12 +579,6 @@
     "package": "getdata",
     "url": "https://github.com/elipousson/getdata",
     "via": ["mapbaltimore", "maplayer"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "getdata",
-    "url": "https://github.com/elipousson/getdata",
-    "via": ["mapbaltimore", "mapmaryland"],
     "from": "mapbaltimore"
   },
   {
@@ -738,12 +672,6 @@
     "from": "overedge"
   },
   {
-    "package": "mapmaryland",
-    "url": "https://github.com/elipousson/mapmaryland",
-    "via": ["mapbaltimore"],
-    "from": "mapbaltimore"
-  },
-  {
     "package": "papersize",
     "url": "https://github.com/elipousson/papersize",
     "via": ["mapbaltimore", "maplayer"],
@@ -801,18 +729,6 @@
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
     "via": ["mapbaltimore", "maplayer"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "sfext",
-    "url": "https://github.com/elipousson/sfext",
-    "via": ["mapbaltimore", "mapmaryland", "getdata"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "sfext",
-    "url": "https://github.com/elipousson/sfext",
-    "via": ["mapbaltimore", "mapmaryland"],
     "from": "mapbaltimore"
   },
   {

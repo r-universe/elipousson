@@ -113,11 +113,6 @@
 	url = https://github.com/walkerke/mapboxapi
 	shallow = true
 	registered = false
-[submodule "mapmaryland"]
-	path = mapmaryland
-	url = https://github.com/elipousson/mapmaryland
-	shallow = true
-	registered = false
 [submodule "snapbox"]
 	path = snapbox
 	url = https://github.com/anthonynorth/snapbox
