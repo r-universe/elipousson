@@ -8,6 +8,18 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["mapbaltimore", "maplayer", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["overedge"],
     "from": "overedge"
   },
@@ -98,6 +110,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "getdata", "sfext", "filenamr"],
     "from": "mapbaltimore"
   },
@@ -110,7 +128,7 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "getdata"],
+    "via": ["mapbaltimore", "maplayer", "getdata"],
     "from": "mapbaltimore"
   },
   {
@@ -123,12 +141,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "maplayer", "getdata", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "maplayer", "getdata"],
     "from": "mapbaltimore"
   },
   {
@@ -682,6 +694,18 @@
     "url": "https://github.com/ropensci/osmdata",
     "via": ["getdata"],
     "from": "getdata"
+  },
+  {
+    "package": "osmdata",
+    "url": "https://github.com/ropensci/osmdata",
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "osmdata",
+    "url": "https://github.com/ropensci/osmdata",
+    "via": ["mapbaltimore", "maplayer", "getdata"],
+    "from": "mapbaltimore"
   },
   {
     "package": "papersize",
