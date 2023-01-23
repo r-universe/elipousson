@@ -2,6 +2,12 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["getdata"],
+    "from": "getdata"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["overedge"],
     "from": "overedge"
   },
@@ -74,6 +80,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["getdata"],
+    "from": "getdata"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["getdata", "sfext", "filenamr"],
     "from": "getdata"
   },
@@ -81,12 +93,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["getdata", "sfext"],
-    "from": "getdata"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["getdata"],
     "from": "getdata"
   },
   {
@@ -670,6 +676,12 @@
     "url": "https://github.com/elipousson/maplayer",
     "via": ["overedge", "mapbaltimore"],
     "from": "overedge"
+  },
+  {
+    "package": "osmdata",
+    "url": "https://github.com/ropensci/osmdata",
+    "via": ["getdata"],
+    "from": "getdata"
   },
   {
     "package": "papersize",
