@@ -20,6 +20,12 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
+    "via": ["maplayer", "getdata"],
+    "from": "maplayer"
+  },
+  {
+    "package": "FlickrAPI",
+    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["overedge"],
     "from": "overedge"
   },
@@ -194,6 +200,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "getdata"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "getdata", "sfext", "filenamr"],
     "from": "maplayer"
   },
@@ -201,12 +213,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "getdata", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "getdata"],
     "from": "maplayer"
   },
   {
@@ -237,6 +243,12 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "papersize"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "papersize", "filenamr"],
     "from": "maplayer"
   },
   {
@@ -494,6 +506,12 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["maplayer", "papersize", "filenamr"],
+    "from": "maplayer"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["papersize", "filenamr"],
     "from": "papersize"
   },
@@ -561,6 +579,12 @@
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
     "via": ["maplayer"],
+    "from": "maplayer"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
+    "via": ["maplayer", "papersize"],
     "from": "maplayer"
   },
   {
@@ -706,6 +730,12 @@
     "url": "https://github.com/ropensci/osmdata",
     "via": ["mapbaltimore", "maplayer", "getdata"],
     "from": "mapbaltimore"
+  },
+  {
+    "package": "osmdata",
+    "url": "https://github.com/ropensci/osmdata",
+    "via": ["maplayer", "getdata"],
+    "from": "maplayer"
   },
   {
     "package": "papersize",
