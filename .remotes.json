@@ -716,12 +716,6 @@
   {
     "package": "osmdata",
     "url": "https://github.com/ropensci/osmdata",
-    "via": ["getdata"],
-    "from": "getdata"
-  },
-  {
-    "package": "osmdata",
-    "url": "https://github.com/ropensci/osmdata",
     "via": ["mapbaltimore", "getdata"],
     "from": "mapbaltimore"
   },
