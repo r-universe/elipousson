@@ -200,7 +200,31 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "filenamr"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "getdata"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "getdata", "esri2sf"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "getdata", "sfext", "esri2sf"],
     "from": "maplayer"
   },
   {
@@ -218,30 +242,6 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "papersize"],
     "from": "maplayer"
   },
@@ -249,6 +249,24 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "papersize", "filenamr"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "sfext", "esri2sf"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "sfext", "filenamr"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "sfext"],
     "from": "maplayer"
   },
   {
@@ -494,25 +512,25 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["maplayer", "getdata", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["maplayer", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["maplayer", "filenamr"],
     "from": "maplayer"
   },
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["maplayer", "getdata", "sfext", "filenamr"],
+    "from": "maplayer"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["maplayer", "papersize", "filenamr"],
+    "from": "maplayer"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["maplayer", "sfext", "filenamr"],
     "from": "maplayer"
   },
   {
@@ -572,25 +590,25 @@
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
-    "via": ["maplayer", "getdata", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
-    "via": ["maplayer", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
     "via": ["maplayer"],
     "from": "maplayer"
   },
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
+    "via": ["maplayer", "getdata", "sfext"],
+    "from": "maplayer"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
     "via": ["maplayer", "papersize"],
+    "from": "maplayer"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
+    "via": ["maplayer", "sfext"],
     "from": "maplayer"
   },
   {
