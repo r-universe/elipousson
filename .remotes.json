@@ -266,6 +266,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["sfext", "esri2sf"],
+    "from": "sfext"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["sfext", "filenamr"],
     "from": "sfext"
   },
