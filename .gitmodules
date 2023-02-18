@@ -98,6 +98,11 @@
 	url = https://github.com/JoshOBrien/exiftoolr
 	shallow = true
 	registered = false
+[submodule "ggarchery"]
+	path = ggarchery
+	url = https://github.com/mdhall272/ggarchery
+	shallow = true
+	registered = false
 [submodule "ggpath"]
 	path = ggpath
 	url = https://github.com/mrcaseb/ggpath

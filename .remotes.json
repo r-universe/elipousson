@@ -642,6 +642,12 @@
     "from": "overedge"
   },
   {
+    "package": "ggarchery",
+    "url": "https://github.com/mdhall272/ggarchery",
+    "via": ["maplayer"],
+    "from": "maplayer"
+  },
+  {
     "package": "ggpath",
     "url": "https://github.com/mrcaseb/ggpath",
     "via": ["birdseyeview", "maplayer"],
@@ -724,12 +730,6 @@
     "url": "https://github.com/ropensci/osmdata",
     "via": ["mapbaltimore", "maplayer", "getdata"],
     "from": "mapbaltimore"
-  },
-  {
-    "package": "osmdata",
-    "url": "https://github.com/ropensci/osmdata",
-    "via": ["maplayer", "getdata"],
-    "from": "maplayer"
   },
   {
     "package": "papersize",
