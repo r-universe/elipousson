@@ -118,11 +118,6 @@
 	url = https://github.com/walkerke/mapboxapi
 	shallow = true
 	registered = false
-[submodule "osmdata"]
-	path = osmdata
-	url = https://github.com/ropensci/osmdata
-	shallow = true
-	registered = false
 [submodule "snapbox"]
 	path = snapbox
 	url = https://github.com/anthonynorth/snapbox

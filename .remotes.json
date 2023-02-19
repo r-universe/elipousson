@@ -2,18 +2,6 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["mapbaltimore", "getdata"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["mapbaltimore", "maplayer", "getdata"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["maplayer", "getdata"],
     "from": "maplayer"
   },
@@ -122,7 +110,25 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "esri2sf"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "getdata", "esri2sf"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "getdata", "sfext", "esri2sf"],
     "from": "mapbaltimore"
   },
   {
@@ -140,7 +146,31 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "filenamr"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "maplayer", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "getdata", "esri2sf"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "getdata", "sfext", "esri2sf"],
     "from": "mapbaltimore"
   },
   {
@@ -158,6 +188,24 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "papersize"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "papersize", "filenamr"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "sfext", "esri2sf"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "maplayer", "sfext", "filenamr"],
     "from": "mapbaltimore"
   },
@@ -170,25 +218,7 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "maplayer", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "maplayer"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "maplayer", "papersize"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "maplayer", "papersize", "filenamr"],
+    "via": ["mapbaltimore", "sfext", "esri2sf"],
     "from": "mapbaltimore"
   },
   {
@@ -488,25 +518,25 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["mapbaltimore", "maplayer", "getdata", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["mapbaltimore", "maplayer", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["mapbaltimore", "maplayer", "filenamr"],
     "from": "mapbaltimore"
   },
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["mapbaltimore", "maplayer", "getdata", "sfext", "filenamr"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["mapbaltimore", "maplayer", "papersize", "filenamr"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["mapbaltimore", "maplayer", "sfext", "filenamr"],
     "from": "mapbaltimore"
   },
   {
@@ -566,25 +596,25 @@
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
-    "via": ["mapbaltimore", "maplayer", "getdata", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
-    "via": ["mapbaltimore", "maplayer", "sfext"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
     "via": ["mapbaltimore", "maplayer"],
     "from": "mapbaltimore"
   },
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
+    "via": ["mapbaltimore", "maplayer", "getdata", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
     "via": ["mapbaltimore", "maplayer", "papersize"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
+    "via": ["mapbaltimore", "maplayer", "sfext"],
     "from": "mapbaltimore"
   },
   {
@@ -674,6 +704,12 @@
   {
     "package": "ggarchery",
     "url": "https://github.com/mdhall272/ggarchery",
+    "via": ["mapbaltimore", "maplayer"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "ggarchery",
+    "url": "https://github.com/mdhall272/ggarchery",
     "via": ["maplayer"],
     "from": "maplayer"
   },
@@ -748,18 +784,6 @@
     "url": "https://github.com/elipousson/maplayer",
     "via": ["overedge", "mapbaltimore"],
     "from": "overedge"
-  },
-  {
-    "package": "osmdata",
-    "url": "https://github.com/ropensci/osmdata",
-    "via": ["mapbaltimore", "getdata"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "osmdata",
-    "url": "https://github.com/ropensci/osmdata",
-    "via": ["mapbaltimore", "maplayer", "getdata"],
-    "from": "mapbaltimore"
   },
   {
     "package": "papersize",
