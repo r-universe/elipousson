@@ -2,12 +2,6 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["getdata"],
-    "from": "getdata"
-  },
-  {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["mapbaltimore", "getdata"],
     "from": "mapbaltimore"
   },
@@ -99,6 +93,18 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["getdata"],
+    "from": "getdata"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["getdata", "esri2sf"],
+    "from": "getdata"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["getdata", "sfext", "esri2sf"],
     "from": "getdata"
   },
   {
