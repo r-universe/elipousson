@@ -2,12 +2,6 @@
   {
     "package": "FlickrAPI",
     "url": "https://github.com/koki25ando/FlickrAPI",
-    "via": ["maplayer", "getdata"],
-    "from": "maplayer"
-  },
-  {
-    "package": "FlickrAPI",
-    "url": "https://github.com/koki25ando/FlickrAPI",
     "via": ["overedge"],
     "from": "overedge"
   },
