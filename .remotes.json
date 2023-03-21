@@ -254,6 +254,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "getdata", "sfext"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "getdata", "sfext", "esri2sf"],
     "from": "maplayer"
   },
@@ -261,12 +267,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "getdata", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "getdata", "sfext"],
     "from": "maplayer"
   },
   {
@@ -284,6 +284,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["maplayer", "sfext"],
+    "from": "maplayer"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "sfext", "esri2sf"],
     "from": "maplayer"
   },
@@ -291,12 +297,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "sfext"],
     "from": "maplayer"
   },
   {
