@@ -122,6 +122,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "getdata", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "getdata", "sfext", "esri2sf"],
     "from": "mapbaltimore"
   },
@@ -129,12 +135,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "getdata", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "getdata", "sfext"],
     "from": "mapbaltimore"
   },
   {
@@ -164,6 +164,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "getdata", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "maplayer", "getdata", "sfext", "esri2sf"],
     "from": "mapbaltimore"
   },
@@ -171,12 +177,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "maplayer", "getdata", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "maplayer", "getdata", "sfext"],
     "from": "mapbaltimore"
   },
   {
@@ -194,6 +194,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapbaltimore", "maplayer", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "maplayer", "sfext", "esri2sf"],
     "from": "mapbaltimore"
   },
@@ -206,7 +212,7 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "maplayer", "sfext"],
+    "via": ["mapbaltimore", "sfext"],
     "from": "mapbaltimore"
   },
   {
@@ -219,12 +225,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "sfext", "filenamr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapbaltimore", "sfext"],
     "from": "mapbaltimore"
   },
   {
