@@ -86,6 +86,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["getdata", "sfext"],
+    "from": "getdata"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["getdata", "sfext", "esri2sf"],
     "from": "getdata"
   },
@@ -93,12 +99,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["getdata", "sfext", "filenamr"],
-    "from": "getdata"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["getdata", "sfext"],
     "from": "getdata"
   },
   {
