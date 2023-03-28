@@ -44,6 +44,12 @@
   {
     "package": "bingmapr",
     "url": "https://github.com/elipousson/bingmapr",
+    "via": ["mapmaryland", "getdata"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "bingmapr",
+    "url": "https://github.com/elipousson/bingmapr",
     "via": ["overedge", "mapbaltimore", "getdata"],
     "from": "overedge"
   },
@@ -296,6 +302,54 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "getdata"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "getdata", "esri2sf"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "getdata", "sfext"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "getdata", "sfext", "esri2sf"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "getdata", "sfext", "filenamr"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "sfext"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "sfext", "esri2sf"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
+    "via": ["mapmaryland", "sfext", "filenamr"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["papersize"],
     "from": "papersize"
   },
@@ -434,6 +488,24 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
+    "via": ["mapmaryland", "getdata"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["mapmaryland", "getdata", "sfext"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
+    "via": ["mapmaryland", "sfext"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "esri2sf",
+    "url": "https://github.com/elipousson/esri2sf",
     "via": ["overedge", "mapbaltimore"],
     "from": "overedge"
   },
@@ -560,6 +632,18 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["mapmaryland", "getdata", "sfext", "filenamr"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
+    "via": ["mapmaryland", "sfext", "filenamr"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "exiftoolr",
+    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["papersize", "filenamr"],
     "from": "papersize"
   },
@@ -638,6 +722,18 @@
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
+    "via": ["mapmaryland", "getdata", "sfext"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
+    "via": ["mapmaryland", "sfext"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "filenamr",
+    "url": "https://github.com/elipousson/filenamr",
     "via": ["papersize"],
     "from": "papersize"
   },
@@ -676,6 +772,12 @@
     "url": "https://github.com/elipousson/getdata",
     "via": ["maplayer"],
     "from": "maplayer"
+  },
+  {
+    "package": "getdata",
+    "url": "https://github.com/elipousson/getdata",
+    "via": ["mapmaryland"],
+    "from": "mapmaryland"
   },
   {
     "package": "getdata",
@@ -850,6 +952,18 @@
     "url": "https://github.com/elipousson/sfext",
     "via": ["maplayer"],
     "from": "maplayer"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["mapmaryland", "getdata"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "sfext",
+    "url": "https://github.com/elipousson/sfext",
+    "via": ["mapmaryland"],
+    "from": "mapmaryland"
   },
   {
     "package": "sfext",
