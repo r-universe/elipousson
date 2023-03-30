@@ -6,12 +6,6 @@
     "from": "overedge"
   },
   {
-    "package": "baltimorecensus",
-    "url": "https://github.com/elipousson/baltimorecensus",
-    "via": ["mapbaltimore"],
-    "from": "mapbaltimore"
-  },
-  {
     "package": "bingmapr",
     "url": "https://github.com/elipousson/bingmapr",
     "via": ["birdseyeview", "getdata"],
