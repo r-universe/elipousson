@@ -38,11 +38,6 @@
 	url = https://github.com/elipousson/isstatic
 	shallow = true
 	registered = true
-[submodule "overedge"]
-	path = overedge
-	url = https://github.com/elipousson/overedge
-	shallow = true
-	registered = true
 [submodule "birdseyeview"]
 	path = birdseyeview
 	url = https://github.com/elipousson/birdseyeview
@@ -56,6 +51,16 @@
 [submodule "mapbaltimore"]
 	path = mapbaltimore
 	url = https://github.com/elipousson/mapbaltimore
+	shallow = true
+	registered = true
+[submodule "mapmaryland"]
+	path = mapmaryland
+	url = https://github.com/elipousson/mapmaryland
+	shallow = true
+	registered = true
+[submodule "marylandedu"]
+	path = marylandedu
+	url = https://github.com/elipousson/marylandedu
 	shallow = true
 	registered = true
 [submodule "bcpss"]
@@ -78,11 +83,26 @@
 	url = https://github.com/elipousson/streetmixr
 	shallow = true
 	registered = true
+[submodule "officerExtras"]
+	path = officerExtras
+	url = https://github.com/elipousson/officerExtras
+	shallow = true
+	registered = true
+[submodule "PDFR"]
+	path = PDFR
+	url = https://github.com/AllanCameron/PDFR
+	shallow = true
+	registered = true
+[submodule "rgeopackage"]
+	path = rgeopackage
+	url = https://github.com/r-spatial/rgeopackage
+	shallow = true
+	registered = true
 [submodule "FlickrAPI"]
 	path = FlickrAPI
 	url = https://github.com/koki25ando/FlickrAPI
 	shallow = true
-	registered = false
+	registered = true
 [submodule "esri2sf"]
 	path = esri2sf
 	url = https://github.com/elipousson/esri2sf
