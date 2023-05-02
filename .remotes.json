@@ -774,6 +774,12 @@
     "from": "getdata"
   },
   {
+    "package": "rairtable",
+    "url": "https://github.com/elipousson/rairtable",
+    "via": ["maplayer", "getdata"],
+    "from": "maplayer"
+  },
+  {
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
     "via": ["birdseyeview", "getdata"],
