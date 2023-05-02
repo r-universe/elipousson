@@ -768,6 +768,12 @@
     "from": "maplayer"
   },
   {
+    "package": "rairtable",
+    "url": "https://github.com/elipousson/rairtable",
+    "via": ["getdata"],
+    "from": "getdata"
+  },
+  {
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
     "via": ["birdseyeview", "getdata"],

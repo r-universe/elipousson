@@ -128,6 +128,11 @@
 	url = https://github.com/coolbutuseless/ggsvg
 	shallow = true
 	registered = false
+[submodule "rairtable"]
+	path = rairtable
+	url = https://github.com/elipousson/rairtable
+	shallow = true
+	registered = false
 [submodule "staticimports"]
 	path = staticimports
 	url = https://github.com/wch/staticimports
