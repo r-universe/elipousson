@@ -776,6 +776,18 @@
   {
     "package": "rairtable",
     "url": "https://github.com/elipousson/rairtable",
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "rairtable",
+    "url": "https://github.com/elipousson/rairtable",
+    "via": ["mapbaltimore", "maplayer", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "rairtable",
+    "url": "https://github.com/elipousson/rairtable",
     "via": ["maplayer", "getdata"],
     "from": "maplayer"
   },
