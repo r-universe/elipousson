@@ -771,6 +771,7 @@
     "package": "rairtable",
     "url": "https://github.com/elipousson/rairtable",
     "via": ["getdata"],
+    "branch": "dev",
     "from": "getdata"
   },
   {

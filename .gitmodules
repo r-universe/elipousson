@@ -132,6 +132,7 @@
 	path = rairtable
 	url = https://github.com/elipousson/rairtable
 	shallow = true
+	branch = dev
 	registered = false
 [submodule "staticimports"]
 	path = staticimports
