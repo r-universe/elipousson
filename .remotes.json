@@ -778,12 +778,14 @@
     "package": "rairtable",
     "url": "https://github.com/elipousson/rairtable",
     "via": ["mapbaltimore", "getdata"],
+    "branch": "dev",
     "from": "mapbaltimore"
   },
   {
     "package": "rairtable",
     "url": "https://github.com/elipousson/rairtable",
     "via": ["mapbaltimore", "maplayer", "getdata"],
+    "branch": "dev",
     "from": "mapbaltimore"
   },
   {
