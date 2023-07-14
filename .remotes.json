@@ -342,18 +342,6 @@
     "from": "sfext"
   },
   {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["sfext", "esri2sf"],
-    "from": "sfext"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["sfext", "filenamr"],
-    "from": "sfext"
-  },
-  {
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
     "via": ["birdseyeview", "getdata", "sfext"],
