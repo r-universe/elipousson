@@ -783,6 +783,18 @@
     "from": "maplayer"
   },
   {
+    "package": "rdeck",
+    "url": "https://github.com/qfes/rdeck",
+    "via": ["sfext"],
+    "from": "sfext"
+  },
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "via": ["sfext", "rdeck"],
+    "from": "sfext"
+  },
+  {
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
     "via": ["birdseyeview", "getdata"],
@@ -865,5 +877,17 @@
     "url": "https://github.com/wch/staticimports",
     "via": ["isstatic"],
     "from": "isstatic"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["sfext", "rdeck"],
+    "from": "sfext"
+  },
+  {
+    "package": "tidyassert",
+    "url": "https://github.com/qfes/tidyassert",
+    "via": ["sfext", "rdeck"],
+    "from": "sfext"
   }
 ]

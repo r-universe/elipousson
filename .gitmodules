@@ -87,7 +87,23 @@
 	url = https://github.com/elipousson/rairtable
 	branch = dev
 	registered = false
+[submodule "rdeck"]
+	path = rdeck
+	url = https://github.com/qfes/rdeck
+	registered = false
+[submodule "roxyglobals"]
+	path = roxyglobals
+	url = https://github.com/anthonynorth/roxyglobals
+	registered = false
 [submodule "staticimports"]
 	path = staticimports
 	url = https://github.com/wch/staticimports
+	registered = false
+[submodule "stylebox"]
+	path = stylebox
+	url = https://github.com/anthonynorth/stylebox
+	registered = false
+[submodule "tidyassert"]
+	path = tidyassert
+	url = https://github.com/qfes/tidyassert
 	registered = false
