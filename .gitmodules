@@ -95,6 +95,10 @@
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
 	registered = false
+[submodule "settoken"]
+	path = settoken
+	url = https://github.com/elipousson/settoken
+	registered = false
 [submodule "staticimports"]
 	path = staticimports
 	url = https://github.com/wch/staticimports

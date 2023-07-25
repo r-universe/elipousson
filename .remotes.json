@@ -795,6 +795,12 @@
     "from": "sfext"
   },
   {
+    "package": "settoken",
+    "url": "https://github.com/elipousson/settoken",
+    "via": ["bingmapr"],
+    "from": "bingmapr"
+  },
+  {
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
     "via": ["birdseyeview", "getdata"],
