@@ -2,66 +2,30 @@
 	path = .registry
 	url = https://github.com/elipousson/universe
 	branch = HEAD
-[submodule "sfext"]
-	path = sfext
-	url = https://github.com/elipousson/sfext
-[submodule "getdata"]
-	path = getdata
-	url = https://github.com/elipousson/getdata
-[submodule "maplayer"]
-	path = maplayer
-	url = https://github.com/elipousson/maplayer
-[submodule "filenamr"]
-	path = filenamr
-	url = https://github.com/elipousson/filenamr
-[submodule "cliExtras"]
-	path = cliExtras
-	url = https://github.com/elipousson/cliExtras
-[submodule "papersize"]
-	path = papersize
-	url = https://github.com/elipousson/papersize
-[submodule "isstatic"]
-	path = isstatic
-	url = https://github.com/elipousson/isstatic
-[submodule "birdseyeview"]
-	path = birdseyeview
-	url = https://github.com/elipousson/birdseyeview
-[submodule "bingmapr"]
-	path = bingmapr
-	url = https://github.com/elipousson/bingmapr
-[submodule "mapbaltimore"]
-	path = mapbaltimore
-	url = https://github.com/elipousson/mapbaltimore
-[submodule "mapmaryland"]
-	path = mapmaryland
-	url = https://github.com/elipousson/mapmaryland
-[submodule "marylandedu"]
-	path = marylandedu
-	url = https://github.com/elipousson/marylandedu
-[submodule "bcpss"]
-	path = bcpss
-	url = https://github.com/elipousson/bcpss
-[submodule "baltimoredata"]
-	path = baltimoredata
-	url = https://github.com/elipousson/baltimoredata
-[submodule "crashapi"]
-	path = crashapi
-	url = https://github.com/elipousson/crashapi
-[submodule "streetmixr"]
-	path = streetmixr
-	url = https://github.com/elipousson/streetmixr
-[submodule "officerExtras"]
-	path = officerExtras
-	url = https://github.com/elipousson/officerExtras
-[submodule "PDFR"]
-	path = PDFR
-	url = https://github.com/AllanCameron/PDFR
-[submodule "rgeopackage"]
-	path = rgeopackage
-	url = https://github.com/r-spatial/rgeopackage
 [submodule "FlickrAPI"]
 	path = FlickrAPI
 	url = https://github.com/koki25ando/FlickrAPI
+[submodule "PDFR"]
+	path = PDFR
+	url = https://github.com/AllanCameron/PDFR
+[submodule "baltimoredata"]
+	path = baltimoredata
+	url = https://github.com/elipousson/baltimoredata
+[submodule "bcpss"]
+	path = bcpss
+	url = https://github.com/elipousson/bcpss
+[submodule "bingmapr"]
+	path = bingmapr
+	url = https://github.com/elipousson/bingmapr
+[submodule "birdseyeview"]
+	path = birdseyeview
+	url = https://github.com/elipousson/birdseyeview
+[submodule "cliExtras"]
+	path = cliExtras
+	url = https://github.com/elipousson/cliExtras
+[submodule "crashapi"]
+	path = crashapi
+	url = https://github.com/elipousson/crashapi
 [submodule "esri2sf"]
 	path = esri2sf
 	url = https://github.com/elipousson/esri2sf
@@ -70,6 +34,12 @@
 	path = exiftoolr
 	url = https://github.com/JoshOBrien/exiftoolr
 	registered = false
+[submodule "filenamr"]
+	path = filenamr
+	url = https://github.com/elipousson/filenamr
+[submodule "getdata"]
+	path = getdata
+	url = https://github.com/elipousson/getdata
 [submodule "ggarchery"]
 	path = ggarchery
 	url = https://github.com/mdhall272/ggarchery
@@ -82,6 +52,27 @@
 	path = ggsvg
 	url = https://github.com/coolbutuseless/ggsvg
 	registered = false
+[submodule "isstatic"]
+	path = isstatic
+	url = https://github.com/elipousson/isstatic
+[submodule "mapbaltimore"]
+	path = mapbaltimore
+	url = https://github.com/elipousson/mapbaltimore
+[submodule "maplayer"]
+	path = maplayer
+	url = https://github.com/elipousson/maplayer
+[submodule "mapmaryland"]
+	path = mapmaryland
+	url = https://github.com/elipousson/mapmaryland
+[submodule "marylandedu"]
+	path = marylandedu
+	url = https://github.com/elipousson/marylandedu
+[submodule "officerExtras"]
+	path = officerExtras
+	url = https://github.com/elipousson/officerExtras
+[submodule "papersize"]
+	path = papersize
+	url = https://github.com/elipousson/papersize
 [submodule "rairtable"]
 	path = rairtable
 	url = https://github.com/elipousson/rairtable
@@ -91,6 +82,9 @@
 	path = rdeck
 	url = https://github.com/qfes/rdeck
 	registered = false
+[submodule "rgeopackage"]
+	path = rgeopackage
+	url = https://github.com/r-spatial/rgeopackage
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
@@ -99,10 +93,16 @@
 	path = settoken
 	url = https://github.com/elipousson/settoken
 	registered = false
+[submodule "sfext"]
+	path = sfext
+	url = https://github.com/elipousson/sfext
 [submodule "staticimports"]
 	path = staticimports
 	url = https://github.com/wch/staticimports
 	registered = false
+[submodule "streetmixr"]
+	path = streetmixr
+	url = https://github.com/elipousson/streetmixr
 [submodule "stylebox"]
 	path = stylebox
 	url = https://github.com/anthonynorth/stylebox
