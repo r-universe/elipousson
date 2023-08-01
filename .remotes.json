@@ -284,48 +284,6 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapmaryland", "getdata", "esri2sf"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapmaryland", "getdata", "sfext"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapmaryland", "getdata", "sfext", "esri2sf"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapmaryland", "getdata", "sfext", "filenamr"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapmaryland", "sfext"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapmaryland", "sfext", "esri2sf"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["mapmaryland", "sfext", "filenamr"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
     "via": ["papersize"],
     "from": "papersize"
   },
@@ -458,18 +416,6 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
-    "via": ["mapmaryland", "getdata", "sfext"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
-    "via": ["mapmaryland", "sfext"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
     "via": ["sfext"],
     "from": "sfext"
   },
@@ -554,12 +500,6 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["mapmaryland", "sfext", "filenamr"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["papersize", "filenamr"],
     "from": "papersize"
   },
@@ -639,12 +579,6 @@
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
     "via": ["mapmaryland", "getdata", "sfext"],
-    "from": "mapmaryland"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
-    "via": ["mapmaryland", "sfext"],
     "from": "mapmaryland"
   },
   {
@@ -783,10 +717,29 @@
     "from": "maplayer"
   },
   {
+    "package": "rairtable",
+    "url": "https://github.com/elipousson/rairtable",
+    "via": ["mapmaryland", "getdata"],
+    "branch": "dev",
+    "from": "mapmaryland"
+  },
+  {
+    "package": "rdeck",
+    "url": "https://github.com/qfes/rdeck",
+    "via": ["mapmaryland", "getdata", "sfext"],
+    "from": "mapmaryland"
+  },
+  {
     "package": "rdeck",
     "url": "https://github.com/qfes/rdeck",
     "via": ["sfext"],
     "from": "sfext"
+  },
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "via": ["mapmaryland", "getdata", "sfext", "rdeck"],
+    "from": "mapmaryland"
   },
   {
     "package": "roxyglobals",
@@ -799,6 +752,12 @@
     "url": "https://github.com/elipousson/settoken",
     "via": ["bingmapr"],
     "from": "bingmapr"
+  },
+  {
+    "package": "settoken",
+    "url": "https://github.com/elipousson/settoken",
+    "via": ["mapmaryland", "getdata", "bingmapr"],
+    "from": "mapmaryland"
   },
   {
     "package": "sfext",
@@ -873,12 +832,6 @@
     "from": "mapmaryland"
   },
   {
-    "package": "sfext",
-    "url": "https://github.com/elipousson/sfext",
-    "via": ["mapmaryland"],
-    "from": "mapmaryland"
-  },
-  {
     "package": "staticimports",
     "url": "https://github.com/wch/staticimports",
     "via": ["isstatic"],
@@ -887,8 +840,20 @@
   {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["mapmaryland", "getdata", "sfext", "rdeck"],
+    "from": "mapmaryland"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
     "via": ["sfext", "rdeck"],
     "from": "sfext"
+  },
+  {
+    "package": "tidyassert",
+    "url": "https://github.com/qfes/tidyassert",
+    "via": ["mapmaryland", "getdata", "sfext", "rdeck"],
+    "from": "mapmaryland"
   },
   {
     "package": "tidyassert",
