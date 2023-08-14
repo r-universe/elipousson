@@ -56,30 +56,6 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["getdata", "esri2sf"],
-    "from": "getdata"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["getdata", "sfext"],
-    "from": "getdata"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["getdata", "sfext", "esri2sf"],
-    "from": "getdata"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["getdata", "sfext", "filenamr"],
-    "from": "getdata"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
     "via": ["mapbaltimore", "esri2sf"],
     "from": "mapbaltimore"
   },
@@ -339,12 +315,6 @@
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
     "via": ["getdata"],
-    "from": "getdata"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
-    "via": ["getdata", "sfext"],
     "from": "getdata"
   },
   {
@@ -726,6 +696,12 @@
   {
     "package": "rdeck",
     "url": "https://github.com/qfes/rdeck",
+    "via": ["getdata", "sfext"],
+    "from": "getdata"
+  },
+  {
+    "package": "rdeck",
+    "url": "https://github.com/qfes/rdeck",
     "via": ["mapmaryland", "getdata", "sfext"],
     "from": "mapmaryland"
   },
@@ -734,6 +710,12 @@
     "url": "https://github.com/qfes/rdeck",
     "via": ["sfext"],
     "from": "sfext"
+  },
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "via": ["getdata", "sfext", "rdeck"],
+    "from": "getdata"
   },
   {
     "package": "roxyglobals",
@@ -752,6 +734,12 @@
     "url": "https://github.com/elipousson/settoken",
     "via": ["bingmapr"],
     "from": "bingmapr"
+  },
+  {
+    "package": "settoken",
+    "url": "https://github.com/elipousson/settoken",
+    "via": ["getdata", "bingmapr"],
+    "from": "getdata"
   },
   {
     "package": "settoken",
@@ -840,6 +828,12 @@
   {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["getdata", "sfext", "rdeck"],
+    "from": "getdata"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
     "via": ["mapmaryland", "getdata", "sfext", "rdeck"],
     "from": "mapmaryland"
   },
@@ -848,6 +842,12 @@
     "url": "https://github.com/anthonynorth/stylebox",
     "via": ["sfext", "rdeck"],
     "from": "sfext"
+  },
+  {
+    "package": "tidyassert",
+    "url": "https://github.com/qfes/tidyassert",
+    "via": ["getdata", "sfext", "rdeck"],
+    "from": "getdata"
   },
   {
     "package": "tidyassert",
