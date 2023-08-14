@@ -140,12 +140,6 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
-    "via": ["papersize", "filenamr"],
-    "from": "papersize"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
     "via": ["sfext"],
     "from": "sfext"
   },
