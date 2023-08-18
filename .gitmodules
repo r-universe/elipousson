@@ -34,6 +34,10 @@
 	path = exiftoolr
 	url = https://github.com/JoshOBrien/exiftoolr
 	registered = false
+[submodule "feltr"]
+	path = feltr
+	url = https://github.com/elipousson/feltr
+	registered = false
 [submodule "filenamr"]
 	path = filenamr
 	url = https://github.com/elipousson/filenamr

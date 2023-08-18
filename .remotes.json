@@ -282,6 +282,12 @@
     "from": "sfext"
   },
   {
+    "package": "feltr",
+    "url": "https://github.com/elipousson/feltr",
+    "via": ["sfext"],
+    "from": "sfext"
+  },
+  {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
     "via": ["getdata", "sfext"],
@@ -523,6 +529,12 @@
     "url": "https://github.com/elipousson/settoken",
     "via": ["mapmaryland", "getdata", "bingmapr"],
     "from": "mapmaryland"
+  },
+  {
+    "package": "settoken",
+    "url": "https://github.com/elipousson/settoken",
+    "via": ["sfext", "feltr"],
+    "from": "sfext"
   },
   {
     "package": "sfext",
