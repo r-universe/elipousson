@@ -290,6 +290,12 @@
   {
     "package": "feltr",
     "url": "https://github.com/elipousson/feltr",
+    "via": ["mapbaltimore", "getdata", "sfext"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "feltr",
+    "url": "https://github.com/elipousson/feltr",
     "via": ["sfext"],
     "from": "sfext"
   },
