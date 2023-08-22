@@ -284,6 +284,12 @@
   {
     "package": "feltr",
     "url": "https://github.com/elipousson/feltr",
+    "via": ["getdata", "sfext"],
+    "from": "getdata"
+  },
+  {
+    "package": "feltr",
+    "url": "https://github.com/elipousson/feltr",
     "via": ["sfext"],
     "from": "sfext"
   },
