@@ -236,7 +236,7 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["mapbaltimore", "getdata", "sfext", "filenamr"],
+    "via": ["mapbaltimore", "getdata", "filenamr"],
     "from": "mapbaltimore"
   },
   {
@@ -314,7 +314,7 @@
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
-    "via": ["mapbaltimore", "getdata", "sfext"],
+    "via": ["mapbaltimore", "getdata"],
     "from": "mapbaltimore"
   },
   {
