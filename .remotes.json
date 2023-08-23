@@ -230,7 +230,7 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["getdata", "sfext", "filenamr"],
+    "via": ["getdata", "filenamr"],
     "from": "getdata"
   },
   {
@@ -302,7 +302,7 @@
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
-    "via": ["getdata", "sfext"],
+    "via": ["getdata"],
     "from": "getdata"
   },
   {
