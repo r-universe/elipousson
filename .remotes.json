@@ -266,7 +266,7 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["mapmaryland", "getdata", "sfext", "filenamr"],
+    "via": ["mapmaryland", "getdata", "filenamr"],
     "from": "mapmaryland"
   },
   {
@@ -292,6 +292,12 @@
     "url": "https://github.com/elipousson/feltr",
     "via": ["mapbaltimore", "getdata", "sfext"],
     "from": "mapbaltimore"
+  },
+  {
+    "package": "feltr",
+    "url": "https://github.com/elipousson/feltr",
+    "via": ["mapmaryland", "getdata", "sfext"],
+    "from": "mapmaryland"
   },
   {
     "package": "feltr",
@@ -338,7 +344,7 @@
   {
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
-    "via": ["mapmaryland", "getdata", "sfext"],
+    "via": ["mapmaryland", "getdata"],
     "from": "mapmaryland"
   },
   {
