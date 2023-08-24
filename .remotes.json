@@ -1,5 +1,11 @@
 [
   {
+    "package": "RSocrata",
+    "url": "https://github.com/Chicago/RSocrata",
+    "via": ["getdata"],
+    "from": "getdata"
+  },
+  {
     "package": "bingmapr",
     "url": "https://github.com/elipousson/bingmapr",
     "via": ["birdseyeview", "getdata"],

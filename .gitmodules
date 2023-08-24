@@ -8,6 +8,10 @@
 [submodule "PDFR"]
 	path = PDFR
 	url = https://github.com/AllanCameron/PDFR
+[submodule "RSocrata"]
+	path = RSocrata
+	url = https://github.com/Chicago/RSocrata
+	registered = false
 [submodule "baltimoredata"]
 	path = baltimoredata
 	url = https://github.com/elipousson/baltimoredata
