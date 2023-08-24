@@ -8,7 +8,7 @@
   {
     "package": "RSocrata",
     "url": "https://github.com/Chicago/RSocrata",
-    "via": ["mapbaltimore", "getdata"],
+    "via": ["mapbaltimore"],
     "from": "mapbaltimore"
   },
   {
