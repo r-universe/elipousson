@@ -6,6 +6,18 @@
     "from": "getdata"
   },
   {
+    "package": "RSocrata",
+    "url": "https://github.com/Chicago/RSocrata",
+    "via": ["mapbaltimore", "getdata"],
+    "from": "mapbaltimore"
+  },
+  {
+    "package": "bcpss",
+    "url": "https://github.com/elipousson/bcpss",
+    "via": ["mapbaltimore"],
+    "from": "mapbaltimore"
+  },
+  {
     "package": "bingmapr",
     "url": "https://github.com/elipousson/bingmapr",
     "via": ["birdseyeview", "getdata"],
