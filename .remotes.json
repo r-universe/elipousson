@@ -12,6 +12,12 @@
     "from": "mapbaltimore"
   },
   {
+    "package": "RSocrata",
+    "url": "https://github.com/Chicago/RSocrata",
+    "via": ["maplayer", "getdata"],
+    "from": "maplayer"
+  },
+  {
     "package": "bcpss",
     "url": "https://github.com/elipousson/bcpss",
     "via": ["mapbaltimore"],
@@ -75,72 +81,6 @@
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
     "via": ["maplayer"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "getdata"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "getdata", "esri2sf"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "getdata", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "getdata", "sfext", "esri2sf"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "getdata", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "papersize"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "papersize", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "sfext", "esri2sf"],
-    "from": "maplayer"
-  },
-  {
-    "package": "cliExtras",
-    "url": "https://github.com/elipousson/cliExtras",
-    "via": ["maplayer", "sfext", "filenamr"],
     "from": "maplayer"
   },
   {
@@ -218,18 +158,6 @@
   {
     "package": "esri2sf",
     "url": "https://github.com/elipousson/esri2sf",
-    "via": ["maplayer", "getdata", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
-    "via": ["maplayer", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "esri2sf",
-    "url": "https://github.com/elipousson/esri2sf",
     "via": ["mapmaryland", "getdata"],
     "from": "mapmaryland"
   },
@@ -266,24 +194,6 @@
   {
     "package": "exiftoolr",
     "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["maplayer", "getdata", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["maplayer", "papersize", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
-    "via": ["maplayer", "sfext", "filenamr"],
-    "from": "maplayer"
-  },
-  {
-    "package": "exiftoolr",
-    "url": "https://github.com/JoshOBrien/exiftoolr",
     "via": ["mapmaryland", "getdata", "filenamr"],
     "from": "mapmaryland"
   },
@@ -314,6 +224,12 @@
   {
     "package": "feltr",
     "url": "https://github.com/elipousson/feltr",
+    "via": ["maplayer", "getdata", "sfext"],
+    "from": "maplayer"
+  },
+  {
+    "package": "feltr",
+    "url": "https://github.com/elipousson/feltr",
     "via": ["mapmaryland", "getdata", "sfext"],
     "from": "mapmaryland"
   },
@@ -339,24 +255,6 @@
     "package": "filenamr",
     "url": "https://github.com/elipousson/filenamr",
     "via": ["maplayer"],
-    "from": "maplayer"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
-    "via": ["maplayer", "getdata", "sfext"],
-    "from": "maplayer"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
-    "via": ["maplayer", "papersize"],
-    "from": "maplayer"
-  },
-  {
-    "package": "filenamr",
-    "url": "https://github.com/elipousson/filenamr",
-    "via": ["maplayer", "sfext"],
     "from": "maplayer"
   },
   {
@@ -485,6 +383,7 @@
     "package": "rairtable",
     "url": "https://github.com/elipousson/rairtable",
     "via": ["maplayer", "getdata"],
+    "branch": "dev",
     "from": "maplayer"
   },
   {
@@ -509,6 +408,12 @@
   {
     "package": "rdeck",
     "url": "https://github.com/qfes/rdeck",
+    "via": ["maplayer", "getdata", "sfext"],
+    "from": "maplayer"
+  },
+  {
+    "package": "rdeck",
+    "url": "https://github.com/qfes/rdeck",
     "via": ["mapmaryland", "getdata", "sfext"],
     "from": "mapmaryland"
   },
@@ -529,6 +434,12 @@
     "url": "https://github.com/anthonynorth/roxyglobals",
     "via": ["mapbaltimore", "getdata", "sfext", "rdeck"],
     "from": "mapbaltimore"
+  },
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "via": ["maplayer", "getdata", "sfext", "rdeck"],
+    "from": "maplayer"
   },
   {
     "package": "roxyglobals",
@@ -559,6 +470,12 @@
     "url": "https://github.com/elipousson/settoken",
     "via": ["mapbaltimore", "getdata", "bingmapr"],
     "from": "mapbaltimore"
+  },
+  {
+    "package": "settoken",
+    "url": "https://github.com/elipousson/settoken",
+    "via": ["maplayer", "getdata", "bingmapr"],
+    "from": "maplayer"
   },
   {
     "package": "settoken",
@@ -617,12 +534,6 @@
   {
     "package": "sfext",
     "url": "https://github.com/elipousson/sfext",
-    "via": ["maplayer"],
-    "from": "maplayer"
-  },
-  {
-    "package": "sfext",
-    "url": "https://github.com/elipousson/sfext",
     "via": ["mapmaryland", "getdata"],
     "from": "mapmaryland"
   },
@@ -647,6 +558,12 @@
   {
     "package": "stylebox",
     "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["maplayer", "getdata", "sfext", "rdeck"],
+    "from": "maplayer"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
     "via": ["mapmaryland", "getdata", "sfext", "rdeck"],
     "from": "mapmaryland"
   },
@@ -667,6 +584,12 @@
     "url": "https://github.com/qfes/tidyassert",
     "via": ["mapbaltimore", "getdata", "sfext", "rdeck"],
     "from": "mapbaltimore"
+  },
+  {
+    "package": "tidyassert",
+    "url": "https://github.com/qfes/tidyassert",
+    "via": ["maplayer", "getdata", "sfext", "rdeck"],
+    "from": "maplayer"
   },
   {
     "package": "tidyassert",
