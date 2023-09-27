@@ -426,12 +426,6 @@
   {
     "package": "roxyglobals",
     "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["getdata", "sfext", "rdeck"],
-    "from": "getdata"
-  },
-  {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
     "via": ["mapbaltimore", "getdata", "sfext", "rdeck"],
     "from": "mapbaltimore"
   },
