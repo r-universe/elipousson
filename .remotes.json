@@ -18,6 +18,12 @@
     "from": "maplayer"
   },
   {
+    "package": "RSocrata",
+    "url": "https://github.com/Chicago/RSocrata",
+    "via": ["mapmaryland", "getdata"],
+    "from": "mapmaryland"
+  },
+  {
     "package": "bcpss",
     "url": "https://github.com/elipousson/bcpss",
     "via": ["mapbaltimore"],
@@ -434,12 +440,6 @@
     "url": "https://github.com/anthonynorth/roxyglobals",
     "via": ["maplayer", "getdata", "sfext", "rdeck"],
     "from": "maplayer"
-  },
-  {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["mapmaryland", "getdata", "sfext", "rdeck"],
-    "from": "mapmaryland"
   },
   {
     "package": "roxyglobals",
