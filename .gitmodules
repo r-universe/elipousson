@@ -104,6 +104,10 @@
 [submodule "sfext"]
 	path = sfext
 	url = https://github.com/elipousson/sfext
+[submodule "standaloner"]
+	path = standaloner
+	url = https://github.com/elipousson/settoken
+	registered = false
 [submodule "staticimports"]
 	path = staticimports
 	url = https://github.com/wch/staticimports
