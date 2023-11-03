@@ -68,6 +68,12 @@
   {
     "package": "cliExtras",
     "url": "https://github.com/elipousson/cliExtras",
+    "via": ["esri2sf"],
+    "from": "esri2sf"
+  },
+  {
+    "package": "cliExtras",
+    "url": "https://github.com/elipousson/cliExtras",
     "via": ["filenamr"],
     "from": "filenamr"
   },
