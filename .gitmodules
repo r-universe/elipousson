@@ -33,7 +33,6 @@
 [submodule "esri2sf"]
 	path = esri2sf
 	url = https://github.com/elipousson/esri2sf
-	registered = false
 [submodule "exiftoolr"]
 	path = exiftoolr
 	url = https://github.com/JoshOBrien/exiftoolr
@@ -41,10 +40,12 @@
 [submodule "feltr"]
 	path = feltr
 	url = https://github.com/elipousson/feltr
-	registered = false
 [submodule "filenamr"]
 	path = filenamr
 	url = https://github.com/elipousson/filenamr
+[submodule "getACS"]
+	path = getACS
+	url = https://github.com/elipousson/getACS
 [submodule "getdata"]
 	path = getdata
 	url = https://github.com/elipousson/getdata
@@ -60,6 +61,9 @@
 	path = ggsvg
 	url = https://github.com/coolbutuseless/ggsvg
 	registered = false
+[submodule "idmlr"]
+	path = idmlr
+	url = https://github.com/elipousson/idmlr
 [submodule "isstatic"]
 	path = isstatic
 	url = https://github.com/elipousson/isstatic
@@ -104,10 +108,12 @@
 [submodule "sfext"]
 	path = sfext
 	url = https://github.com/elipousson/sfext
+[submodule "sharepointr"]
+	path = sharepointr
+	url = https://github.com/elipousson/sharepointr
 [submodule "standaloner"]
 	path = standaloner
-	url = https://github.com/elipousson/settoken
-	registered = false
+	url = https://github.com/elipousson/standaloner
 [submodule "staticimports"]
 	path = staticimports
 	url = https://github.com/wch/staticimports
