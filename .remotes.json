@@ -442,12 +442,6 @@
     "from": "maplayer"
   },
   {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["sfext", "rdeck"],
-    "from": "sfext"
-  },
-  {
     "package": "settoken",
     "url": "https://github.com/elipousson/settoken",
     "via": ["bingmapr"],
@@ -464,12 +458,6 @@
     "url": "https://github.com/elipousson/settoken",
     "via": ["mapmaryland", "getdata", "bingmapr"],
     "from": "mapmaryland"
-  },
-  {
-    "package": "settoken",
-    "url": "https://github.com/elipousson/settoken",
-    "via": ["sfext", "feltr"],
-    "from": "sfext"
   },
   {
     "package": "sfext",
