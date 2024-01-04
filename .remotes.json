@@ -444,12 +444,6 @@
   {
     "package": "settoken",
     "url": "https://github.com/elipousson/settoken",
-    "via": ["bingmapr"],
-    "from": "bingmapr"
-  },
-  {
-    "package": "settoken",
-    "url": "https://github.com/elipousson/settoken",
     "via": ["maplayer", "getdata", "bingmapr"],
     "from": "maplayer"
   },
@@ -506,6 +500,12 @@
     "url": "https://github.com/elipousson/sfext",
     "via": ["mapmaryland", "getdata"],
     "from": "mapmaryland"
+  },
+  {
+    "package": "standaloner",
+    "url": "https://github.com/elipousson/settoken",
+    "via": ["bingmapr"],
+    "from": "bingmapr"
   },
   {
     "package": "standaloner",
