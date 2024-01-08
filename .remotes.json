@@ -354,6 +354,12 @@
     "from": "maplayer"
   },
   {
+    "package": "ggsvg",
+    "url": "https://github.com/coolbutuseless/ggsvg",
+    "via": ["streetmixr"],
+    "from": "streetmixr"
+  },
+  {
     "package": "maplayer",
     "url": "https://github.com/elipousson/maplayer",
     "via": ["birdseyeview"],
