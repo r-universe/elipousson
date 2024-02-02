@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/elipousson/universe
+	url = https://github.com/elipousson/elipousson.r-universe.dev
 	branch = HEAD
 [submodule "FlickrAPI"]
 	path = FlickrAPI
@@ -113,7 +113,8 @@
 	url = https://github.com/elipousson/sharepointr
 [submodule "standaloner"]
 	path = standaloner
-	url = https://github.com/elipousson/standaloner
+	url = https://github.com/elipousson/settoken
+	registered = false
 [submodule "staticimports"]
 	path = staticimports
 	url = https://github.com/wch/staticimports
