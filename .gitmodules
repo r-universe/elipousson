@@ -12,6 +12,10 @@
 	path = RSocrata
 	url = https://github.com/Chicago/RSocrata
 	registered = false
+[submodule "arcgisutils"]
+	path = arcgisutils
+	url = https://github.com/r-ArcGIS/arcgisutils
+	registered = false
 [submodule "baltimoredata"]
 	path = baltimoredata
 	url = https://github.com/elipousson/baltimoredata
