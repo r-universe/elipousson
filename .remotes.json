@@ -30,6 +30,12 @@
     "from": "esri2sf"
   },
   {
+    "package": "arcgisutils",
+    "url": "https://github.com/r-ArcGIS/arcgisutils",
+    "via": ["mapbaltimore", "esri2sf"],
+    "from": "mapbaltimore"
+  },
+  {
     "package": "bcpss",
     "url": "https://github.com/elipousson/bcpss",
     "via": ["mapbaltimore"],
