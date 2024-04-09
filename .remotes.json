@@ -36,6 +36,12 @@
     "from": "mapbaltimore"
   },
   {
+    "package": "arcgisutils",
+    "url": "https://github.com/r-ArcGIS/arcgisutils",
+    "via": ["maplayer", "getdata", "esri2sf"],
+    "from": "maplayer"
+  },
+  {
     "package": "bcpss",
     "url": "https://github.com/elipousson/bcpss",
     "via": ["mapbaltimore"],
