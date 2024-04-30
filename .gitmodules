@@ -130,3 +130,7 @@
 	path = tidyassert
 	url = https://github.com/qfes/tidyassert
 	registered = false
+[submodule "tigris"]
+	path = tigris
+	url = https://github.com/elipousson/tigris
+	registered = false

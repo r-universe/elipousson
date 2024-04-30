@@ -602,5 +602,11 @@
     "url": "https://github.com/qfes/tidyassert",
     "via": ["sfext", "rdeck"],
     "from": "sfext"
+  },
+  {
+    "package": "tigris",
+    "url": "https://github.com/elipousson/tigris",
+    "via": ["getACS"],
+    "from": "getACS"
   }
 ]
