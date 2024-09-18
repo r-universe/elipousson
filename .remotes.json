@@ -522,12 +522,6 @@
   {
     "package": "standaloner",
     "url": "https://github.com/elipousson/settoken",
-    "via": ["mapbaltimore", "getdata", "bingmapr"],
-    "from": "mapbaltimore"
-  },
-  {
-    "package": "standaloner",
-    "url": "https://github.com/elipousson/settoken",
     "via": ["maplayer", "getdata", "bingmapr"],
     "from": "maplayer"
   },
