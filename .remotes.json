@@ -32,6 +32,12 @@
   {
     "package": "arcgisutils",
     "url": "https://github.com/r-ArcGIS/arcgisutils",
+    "via": ["getdata", "esri2sf"],
+    "from": "getdata"
+  },
+  {
+    "package": "arcgisutils",
+    "url": "https://github.com/r-ArcGIS/arcgisutils",
     "via": ["mapbaltimore", "esri2sf"],
     "from": "mapbaltimore"
   },
@@ -512,12 +518,6 @@
     "url": "https://github.com/elipousson/sfext",
     "via": ["mapmaryland", "getdata"],
     "from": "mapmaryland"
-  },
-  {
-    "package": "standaloner",
-    "url": "https://github.com/elipousson/settoken",
-    "via": ["getdata", "bingmapr"],
-    "from": "getdata"
   },
   {
     "package": "standaloner",
