@@ -516,12 +516,6 @@
   {
     "package": "standaloner",
     "url": "https://github.com/elipousson/settoken",
-    "via": ["bingmapr"],
-    "from": "bingmapr"
-  },
-  {
-    "package": "standaloner",
-    "url": "https://github.com/elipousson/settoken",
     "via": ["getdata", "bingmapr"],
     "from": "getdata"
   },
