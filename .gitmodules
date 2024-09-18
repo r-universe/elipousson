@@ -34,6 +34,9 @@
 [submodule "crashapi"]
 	path = crashapi
 	url = https://github.com/elipousson/crashapi
+[submodule "d2r"]
+	path = d2r
+	url = https://github.com/elipousson/d2r
 [submodule "esri2sf"]
 	path = esri2sf
 	url = https://github.com/elipousson/esri2sf
@@ -71,6 +74,9 @@
 [submodule "isstatic"]
 	path = isstatic
 	url = https://github.com/elipousson/isstatic
+[submodule "legistarapi"]
+	path = legistarapi
+	url = https://github.com/elipousson/legistarapi
 [submodule "mapbaltimore"]
 	path = mapbaltimore
 	url = https://github.com/elipousson/mapbaltimore
