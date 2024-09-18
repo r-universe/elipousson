@@ -107,10 +107,6 @@
 [submodule "rgeopackage"]
 	path = rgeopackage
 	url = https://github.com/r-spatial/rgeopackage
-[submodule "settoken"]
-	path = settoken
-	url = https://github.com/elipousson/settoken
-	registered = false
 [submodule "sfext"]
 	path = sfext
 	url = https://github.com/elipousson/sfext

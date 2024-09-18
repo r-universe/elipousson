@@ -48,6 +48,12 @@
     "from": "maplayer"
   },
   {
+    "package": "arcgisutils",
+    "url": "https://github.com/r-ArcGIS/arcgisutils",
+    "via": ["mapmaryland", "getdata", "esri2sf"],
+    "from": "mapmaryland"
+  },
+  {
     "package": "bcpss",
     "url": "https://github.com/elipousson/bcpss",
     "via": ["mapbaltimore"],
@@ -464,12 +470,6 @@
     "url": "https://github.com/qfes/rdeck",
     "via": ["sfext"],
     "from": "sfext"
-  },
-  {
-    "package": "settoken",
-    "url": "https://github.com/elipousson/settoken",
-    "via": ["mapmaryland", "getdata", "bingmapr"],
-    "from": "mapmaryland"
   },
   {
     "package": "sfext",
