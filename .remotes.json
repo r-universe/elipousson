@@ -54,6 +54,12 @@
     "from": "mapmaryland"
   },
   {
+    "package": "arcgisutils",
+    "url": "https://github.com/r-ArcGIS/arcgisutils",
+    "via": ["sfext", "esri2sf"],
+    "from": "sfext"
+  },
+  {
     "package": "bcpss",
     "url": "https://github.com/elipousson/bcpss",
     "via": ["mapbaltimore"],
