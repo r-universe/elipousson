@@ -602,5 +602,11 @@
     "url": "https://github.com/elipousson/tigris",
     "via": ["getACS"],
     "from": "getACS"
+  },
+  {
+    "package": "tigris",
+    "url": "https://github.com/elipousson/tigris",
+    "via": ["ipumseasyr"],
+    "from": "ipumseasyr"
   }
 ]
