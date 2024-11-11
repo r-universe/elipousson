@@ -92,6 +92,9 @@
 [submodule "officerExtras"]
 	path = officerExtras
 	url = https://github.com/elipousson/officerExtras
+[submodule "openxlsx2Extras"]
+	path = openxlsx2Extras
+	url = https://github.com/elipousson/openxlsx2Extras
 [submodule "papersize"]
 	path = papersize
 	url = https://github.com/elipousson/papersize
