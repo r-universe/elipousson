@@ -71,6 +71,9 @@
 [submodule "idmlr"]
 	path = idmlr
 	url = https://github.com/elipousson/idmlr
+[submodule "ipumseasyr"]
+	path = ipumseasyr
+	url = https://github.com/elipousson/ipumseasyr
 [submodule "isstatic"]
 	path = isstatic
 	url = https://github.com/elipousson/isstatic
