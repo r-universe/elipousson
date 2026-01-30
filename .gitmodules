@@ -8,14 +8,6 @@
 [submodule "PDFR"]
 	path = PDFR
 	url = https://github.com/AllanCameron/PDFR
-[submodule "RSocrata"]
-	path = RSocrata
-	url = https://github.com/Chicago/RSocrata
-	registered = false
-[submodule "arcgisutils"]
-	path = arcgisutils
-	url = https://github.com/r-ArcGIS/arcgisutils
-	registered = false
 [submodule "baltimoredata"]
 	path = baltimoredata
 	url = https://github.com/elipousson/baltimoredata
@@ -40,10 +32,6 @@
 [submodule "esri2sf"]
 	path = esri2sf
 	url = https://github.com/elipousson/esri2sf
-[submodule "exiftoolr"]
-	path = exiftoolr
-	url = https://github.com/JoshOBrien/exiftoolr
-	registered = false
 [submodule "feltr"]
 	path = feltr
 	url = https://github.com/elipousson/feltr
@@ -56,18 +44,6 @@
 [submodule "getdata"]
 	path = getdata
 	url = https://github.com/elipousson/getdata
-[submodule "ggarchery"]
-	path = ggarchery
-	url = https://github.com/mdhall272/ggarchery
-	registered = false
-[submodule "ggpath"]
-	path = ggpath
-	url = https://github.com/mrcaseb/ggpath
-	registered = false
-[submodule "ggsvg"]
-	path = ggsvg
-	url = https://github.com/coolbutuseless/ggsvg
-	registered = false
 [submodule "idmlr"]
 	path = idmlr
 	url = https://github.com/elipousson/idmlr
@@ -101,15 +77,6 @@
 [submodule "papersize"]
 	path = papersize
 	url = https://github.com/elipousson/papersize
-[submodule "rairtable"]
-	path = rairtable
-	url = https://github.com/elipousson/rairtable
-	branch = dev
-	registered = false
-[submodule "rdeck"]
-	path = rdeck
-	url = https://github.com/qfes/rdeck
-	registered = false
 [submodule "rgeopackage"]
 	path = rgeopackage
 	url = https://github.com/r-spatial/rgeopackage
@@ -119,26 +86,6 @@
 [submodule "sharepointr"]
 	path = sharepointr
 	url = https://github.com/elipousson/sharepointr
-[submodule "standaloner"]
-	path = standaloner
-	url = https://github.com/elipousson/settoken
-	registered = false
-[submodule "staticimports"]
-	path = staticimports
-	url = https://github.com/wch/staticimports
-	registered = false
 [submodule "streetmixr"]
 	path = streetmixr
 	url = https://github.com/elipousson/streetmixr
-[submodule "stylebox"]
-	path = stylebox
-	url = https://github.com/anthonynorth/stylebox
-	registered = false
-[submodule "tidyassert"]
-	path = tidyassert
-	url = https://github.com/qfes/tidyassert
-	registered = false
-[submodule "tigris"]
-	path = tigris
-	url = https://github.com/elipousson/tigris
-	registered = false
